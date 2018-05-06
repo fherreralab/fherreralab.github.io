@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jonathan Sepúlveda successfully defends his undergrad thesis."
+title: "Jonathan Sepúlveda successfully defends his undergrad thesis"
 categories: misc
 ---
 
