@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to our Lab Website!
+title: Welcome!
 ---
 
 We are a [group](/people/) of theoretical and computational researchers working on exciting problems at the interface between **chemical physics**, **quantum optics**, **materials science** and **quantum information**. To learn more about our work, we invite you to read about current [research directions](/research-areas/) and [publications](/publications/).
