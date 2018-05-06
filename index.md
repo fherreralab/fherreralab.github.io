@@ -1,13 +1,11 @@
 ---
 layout: home
+title: Welcome to our Lab Website!
 ---
-
-
-**Welcome to our Lab Website!**
 
 We are a [group](/people/) of theoretical and computational researchers working on exciting problems at the interface between **chemical physics**, **quantum optics**, **materials science** and **quantum information**. To learn more about our work, we invite you to read about current [research directions](/research-areas/) and [publications](/publications/).
 
-We are always excited to meet and welcome motivated students and postdocs. If you are interested in join our group, please check out our [current openings](/openings/). Our group is diverse and we all do our best to make everyone's experience in the lab as enjoyable and fruitful as possible. 
+We are always excited to meet and welcome motivated students and postdocs. If you are interested in join our group, please check out our [current openings](/openings/). Our group is diverse and we all do our best to make everyone's experience in the lab as **enjoyable and fruitful** as possible. 
 
 
 [home-image]:{{ "/assets/img/displaced-potential-cavity.pdf" | absolute_url }} 
