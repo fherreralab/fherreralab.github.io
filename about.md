@@ -12,7 +12,7 @@ We are a growing research group based in the [Department of Physics][fisica-usac
 
 We are always very happy to welcome motivated undergraduate students, graduate students and postdocs with diverse backgrounds in all areas of science and engineering. If you are interested in joining our group, please check out our [current open positions](/openings/) to see if our work matches your interests. **If you have questions, we encourage you to contact us!**
 
-For technical details about our work, please read about our current [research directions][research].
+For technical details about our work, we invite you to read about our current [research directions][research].
 
 ### About Felipe
 
