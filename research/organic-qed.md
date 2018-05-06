@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /research/organic-qed
+permalink: /research/organic-qed/
 ---
 
 ### Cavity Quantum Electrodynamics with Organic Materials

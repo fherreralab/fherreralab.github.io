@@ -1,9 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
 layout: home
 ---
 
-# Felipe Herrera Lab
+## Felipe Herrera Lab
 
 Welcome to our lab website! We are a theoretical and computational research group working on exciting problems at the interface between **chemical physics**, **quantum optics**, **materials science** and **quantum information**. To learn more about our work, we invite you to read about current [research directions](/research/) and [publications](/publications/).
 

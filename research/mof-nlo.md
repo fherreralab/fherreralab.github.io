@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /research/mof-nlo
+permalink: /research/mof-nlo/
 ---
 
 ### Metal-Organic Frameworks for Quantum Communication

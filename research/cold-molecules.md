@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /research/cold-molecules
+permalink: /research/cold-molecules/
 ---
 
 ### Quantum Control with Ultracold Molecules
