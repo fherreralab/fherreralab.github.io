@@ -9,7 +9,7 @@ permalink: /about-us/
   <figcaption>Credit: María José Carreño Matus</figcaption>
 </figure>
 
-We are a growing research group based in the [Department of Physics][fisica-usach] at Universidad de Santiago de Chile (USACH). We are currently working on exciting problems at the interface between **chemical physics**, **quantum optics**, **materials science** and **quantum information**, using a variety of theoretical and computational  that we have developed or adopted to address these challenging problems.   
+We are a growing research group based in Santiago, at the [Department of Physics][fisica-usach] in Universidad de Santiago de Chile (USACH). We are currently working on exciting problems at the interface between **chemical physics**, **quantum optics**, **materials science** and **quantum information**, using a variety of theoretical and computational  that we have developed or adopted to address these challenging problems.   
 
 [Our group](/people/) is composed of Physics graduate students, as well as undergraduate students in Engineering Physics and Applied Mathematics. We also collaborate very closely with experimental groups in Nanoscience and Quantum Optics both in Chile and abroad.
 
