@@ -4,7 +4,7 @@ title: About Us
 permalink: /about-us/
 ---
 
-![group pictuer Mar/2018][current-group]
+![group photo March 2018][current-group]
 
 We are a growing research group based in the [Department of Physics][fisica-usach] at Universidad de Santiago de Chile (USACH). We are currently working on exciting problems at the interface between **chemical physics**, **quantum optics**, **materials science** and **quantum information**, using a variety of theoretical and computational  that we have developed or adopted to address these challenging problems.   
 
@@ -23,9 +23,7 @@ Felipe is also a husband and a father of a four-year old son who enjoys [steppin
 
 [research]: {{ "/research-areas/" | absolute_url }}
 [andres-photo]: {{ "/assets/img/andres-photo.jpeg" | absolute_url }}
-[current-group]: {{ "/assets/img/group-mar-2018.jpg" | absolute_url }}
-[current-group-1]: {{ "/assets/img/group-nov-2017-1.jpg" | absolute_url }}
-[current-group-2]: {{ "/assets/img/group-nov-2017-2.jpg" | absolute_url }}
+[current-group]: {{ "/assets/img/group-mar-2018.jpeg" | absolute_url }}
 [fisica-usach]: http://www.fisica.usach.cl
 [krems-website]: https://groups.chem.ubc.ca/krems/ 
 [herrera-cv]: {{ "/assets/cv/CV_Felipe.pdf" | absolute_url }}

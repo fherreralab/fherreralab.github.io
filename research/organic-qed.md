@@ -6,7 +6,7 @@ permalink: /research/organic-qed/
 
 ### Cavity Quantum Electrodynamics with Organic Materials
 
-![Organic cavity QED scheme][home-image]
+![Organic cavity QED scheme][cavity-image]
 
 Our group is developing new theoretical and numerical frameworks to study the complex quantum dynamics of organic materials embedded in optical and infrared optical cavities, in order to address outstanding questions and propose new experiments in the emerging field of organic cavity quantum electrodynamics.
 
@@ -25,9 +25,4 @@ F. Herrera and F. C. Spano, *Cavity-controlled chemistry in molecular ensembles*
 F. Herrera, B. Peropadre, L. A. Pachon, S. Saikin, A. Aspuru-Guzik, *Quantum nonlinear optics with polar J-aggregates in microcavities*, J. Phys. Chem. Lett. 5, 3708, 2014
 
  
-[current-group]: {{ "/assets/img/group-mar-2018.jpg" | absolute_url }}
-[fisica-usach]: http://www.fisica.usach.cl
-[home-image]:{{ "/assets/img/displaced-potential-cavity.pdf" | absolute_url }} 
-[mof-shg]: {{ "/assets/img/mof-shg.pdf" | absolute_url }} 
-
-[lattice-image]: {{ "/assets/img/driven-polar-molecules.pdf" | absolute_url }} 
+[cavity-image]:{{ "/assets/img/displaced-potential-cavity.jpeg" | absolute_url }} 

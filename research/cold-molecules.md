@@ -19,9 +19,4 @@ F. Herrera and R. V. Krems, *Tunable Holstein model with cold polar molecules*, 
 
 
  
-[current-group]: {{ "/assets/img/group-mar-2018.jpg" | absolute_url }}
-[fisica-usach]: http://www.fisica.usach.cl
-[home-image]:{{ "/assets/img/displaced-potential-cavity.pdf" | absolute_url }} 
-[mof-shg]: {{ "/assets/img/mof-shg.pdf" | absolute_url }} 
-
-[lattice-image]: {{ "/assets/img/driven-polar-molecules.pdf" | absolute_url }} 
+[lattice-image]: {{ "/assets/img/driven-polar-molecules.jpeg" | absolute_url }} 
