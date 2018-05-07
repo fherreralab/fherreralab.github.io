@@ -4,7 +4,10 @@ title: "Metal-Organic Frameworks for Quantum Communication"
 permalink: /research/mof-nlo/
 ---
 
-![MOF-based nonlinear optical device][mof-shg]
+<figure>
+  <img src="{{absolute_url}}/assets/img/mof-shg.jpeg" alt="MOF-based nonlinear optical device"/>
+  <figcaption>Figure Credit: Jaime Gonzalez Labra @CapitalCreativo </figcaption>
+</figure>
 
 Our group is currently developing *high-throughput virtual-screening* software using open-source RDKit tools together with in-house physical modelling, for the automated discovery of experimentally accessible single-crystal metal-organic frameworks (MOF) that can enable efficient second-harmonic generation (SHG) and spontaneous parametric down conversion (SPDC). This computational material discovery effort expands our previous work on the design of nanoscale nonlinear waveguides for third-order quantum nonlinear optics. 
 

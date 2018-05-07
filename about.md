@@ -4,7 +4,10 @@ title: About Us
 permalink: /about-us/
 ---
 
-![group photo March 2018][current-group]
+<figure>
+  <img src="{{absolute_url}}/assets/img/group-mar-2018.jpeg" alt="Group photo March 2018"/>
+  <figcaption>Credit: María José Carreño Matus</figcaption>
+</figure>
 
 We are a growing research group based in the [Department of Physics][fisica-usach] at Universidad de Santiago de Chile (USACH). We are currently working on exciting problems at the interface between **chemical physics**, **quantum optics**, **materials science** and **quantum information**, using a variety of theoretical and computational  that we have developed or adopted to address these challenging problems.   
 
