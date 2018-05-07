@@ -7,7 +7,7 @@ We are a [theory group](/people/) working on exciting problems at the interface 
 
 
 ## Work with us!
-We are always excited to meet and welcome motivated students and postdocs from diverse backgrounds. If you are interested in join our group, please check out our [current openings](/openings/). Our group is diverse and we all do our best to make everyone's experience in the lab as **enjoyable and fruitful** as possible. 
+We are always excited to meet and welcome motivated students and postdocs from diverse backgrounds. If you are interested in joining our group, please check out our [current openings](/openings/). Our group is diverse and we all do our best to make everyone's experience in the lab as **enjoyable and fruitful** as possible. 
 
 
 [home-image]:{{ "/assets/img/displaced-potential-cavity.pdf" | absolute_url }} 
