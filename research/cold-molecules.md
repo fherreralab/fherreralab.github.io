@@ -1,10 +1,10 @@
 ---
 layout: page
-title:
+title: ""
 permalink: /research/cold-molecules/
 ---
 
-### Quantum Control with Ultracold Molecules
+## Quantum Control with Ultracold Molecules
 
 ![Laser driven polar molecules in an optical lattice][lattice-image]
 

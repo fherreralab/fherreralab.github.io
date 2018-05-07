@@ -4,7 +4,7 @@ title: ""
 permalink: /research/mof-nlo/
 ---
 
-### Metal-Organic Frameworks for Quantum Communication
+## Metal-Organic Frameworks for Quantum Communication
 
 ![MOF-based nonlinear optical device][mof-shg]
 

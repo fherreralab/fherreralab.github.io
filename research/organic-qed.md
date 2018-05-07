@@ -1,10 +1,10 @@
 ---
 layout: page
-title:
+title: ""
 permalink: /research/organic-qed/
 ---
 
-### Cavity Quantum Electrodynamics with Organic Materials
+## Cavity Quantum Electrodynamics with Organic Materials
 
 ![Organic cavity QED scheme][cavity-image]
 
