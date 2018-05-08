@@ -8,7 +8,7 @@ The Millenium Scientific Initiative ([ICM][ICM-site]) at the Chilean Ministry of
 
 A few new [Millenium Institutes][institutos-milenio] are selected each year by an accomplished international scientific committee after a competitive process with rigorous [evaluation criteria][criterios-milenio]. 
 
-Our Lab is proud to become one of co-founding partners of [MIRO][miro-icm-site]. In very close collaboration with the Nanosynthesis Lab led by [Dinesh Pratap Singh][dinesh-scholar] at USACH and the Quantum Cryptography Lab led by [Gustavo Lima][gustavo-scholar] at Universidad de Concepción, we are **computationally designing, fabricating and testing new optical materials** based on metal-organic frameworks (MOF),  as novel sources of non-classical light to be used in entanglement-based quantum communication protocols.
+Our Lab is proud to become one of co-founding partners of [MIRO][miro-icm-site]. In very close collaboration with the Nanosynthesis Lab led by [Dinesh Pratap Singh][dinesh-scholar] at USACH and the Quantum Cryptography Lab led by [Gustavo Lima][gustavo-scholar] at Universidad de Concepción, we are **computationally designing, fabricating and testing new optical materials** based on [metal-organic frameworks](/research/mof-nlo/) (MOF),  as novel sources of non-classical light to be used in entanglement-based quantum communication protocols.
 
 
 [ICM-site]: http://www.iniciativamilenio.cl
