@@ -11,7 +11,7 @@ Applicants must send their **current CV and 2 letters of recommendation** to *fe
 **Application Deadline: June 15, 2018**.
 
 
-##Duties: 
+# Duties: 
 
 * Perform molecular dynamics simulations to study the energetics of a large set of computer-generated MOF structures produced by in-house combinatorial software.
 
@@ -25,7 +25,7 @@ Applicants must send their **current CV and 2 letters of recommendation** to *fe
 
 * Assist with the administration of in-house HPC cluster. 
 
-##Requirements: 
+# Requirements: 
 
 Ph.D. degree in Chemistry, Physics or similar. Demonstrated knowledge in molecular dynamics simulations of large chemical structures and quantum chemistry methods for computing accurate linear and nonlinear response of organic chromophores. Good programming skills in scientific computing languages (e.g. Python, Fortran, Matlab). Familiarity with big-data analysis *and/or* high-throughput virtual screening techniques is a plus.
 

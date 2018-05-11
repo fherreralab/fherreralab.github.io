@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-11T17:21:40-03:00</updated><id>http://localhost:4000/</id><title type="html">Herrera Lab</title><subtitle>Felipe Herrera Group Website at Universidad de Santiago de Chile.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-11T17:23:56-03:00</updated><id>http://localhost:4000/</id><title type="html">Herrera Lab</title><subtitle>Felipe Herrera Group Website at Universidad de Santiago de Chile.
 </subtitle><author><name>Felipe Herrera</name></author><entry><title type="html">Postdoctoral Opening in Computational Materials Discovery for Quantum Cryptography</title><link href="http://localhost:4000/jobs/2018/05/11/postdoc-position-compchem.html" rel="alternate" type="text/html" title="Postdoctoral Opening in Computational Materials Discovery for Quantum Cryptography" /><published>2018-05-11T00:00:00-03:00</published><updated>2018-05-11T00:00:00-03:00</updated><id>http://localhost:4000/jobs/2018/05/11/postdoc-position-compchem</id><content type="html" xml:base="http://localhost:4000/jobs/2018/05/11/postdoc-position-compchem.html">&lt;p&gt;A &lt;strong&gt;fully-funded&lt;/strong&gt; postdoctoral position in &lt;strong&gt;computational material science&lt;/strong&gt; is available for &lt;strong&gt;two-years&lt;/strong&gt; at the Molecular Quantum Technology Group of Felipe Herrera, based in the Department of Physics at Universidad de Santiago de Chile. The group works on the development of large-scale virtual screening algorithms for the computational discovery of experimentally-accesible metal-organic frameworks (MOF) that can be used as efficient nonlinear optical crystals for quantum communication protocols.&lt;/p&gt;
 
 &lt;p&gt;Applicants must send their &lt;strong&gt;current CV and 2 letters of recommendation&lt;/strong&gt; to &lt;em&gt;felipe.herrera.u@usach.cl&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Application Deadline: June 15, 2018&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;##Duties:&lt;/p&gt;
+&lt;h1 id=&quot;duties&quot;&gt;Duties:&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -28,7 +28,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;##Requirements:&lt;/p&gt;
+&lt;h1 id=&quot;requirements&quot;&gt;Requirements:&lt;/h1&gt;
 
 &lt;p&gt;Ph.D. degree in Chemistry, Physics or similar. Demonstrated knowledge in molecular dynamics simulations of large chemical structures and quantum chemistry methods for computing accurate linear and nonlinear response of organic chromophores. Good programming skills in scientific computing languages (e.g. Python, Fortran, Matlab). Familiarity with big-data analysis &lt;em&gt;and/or&lt;/em&gt; high-throughput virtual screening techniques is a plus.&lt;/p&gt;
 
