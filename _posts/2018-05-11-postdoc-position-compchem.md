@@ -15,7 +15,7 @@ Applicants must send their **current CV and 2 letters of recommendation** to *fe
 
 * Perform molecular dynamics simulations to study the energetics of a large set of computer-generated MOF structures produced by in-house combinatorial software.
 
-* Perfor quantum chemistry calculations of linear and nonlinear polarizabilities of a large number of conjugated organic ligands. 
+* Perform quantum chemistry calculations of linear and nonlinear polarizabilities of a large number of conjugated organic ligands. 
 
 * Lead efforts to construct accurate physical models and software to compute the nonlinear optical response of MOF single crystals, based on ligand monomer data. 
 
