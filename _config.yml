@@ -24,6 +24,8 @@ github_username:  fherreralab
 # - username: jekyll2
 #   instance: example.com
 
+# Google Analytics ID
+google_analytics: UA-67513513-1
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
