@@ -6,7 +6,7 @@ categories: jobs
 
 A **fully-funded** postdoctoral position in **quantum dynamics of organic materials in optical cavities** is available for **two-years** at the Molecular Quantum Technology Group of Felipe Herrera. The position will be held in the Department of Physics at Universidad de Santiago de Chile. The Herrera Lab works on the development of novel theoretical and numerical frameworks to study the complex quantum dynamics of organic materials embedded in optical and infrared optical cavities, in order to address outstanding questions and propose new experiments in the emerging field of organic cavity quantum electrodynamics.
 
-Applicants must send their **current CV and 2 letters of recommendation** to *felipe.herrera.u@usach.cl*. 
+Applicants must submit their **current CV** and have **2 letters of recommendation** sent to *felipe.herrera.u@usach.cl*. 
 
 **Application Deadline: June 15, 2018**.
 

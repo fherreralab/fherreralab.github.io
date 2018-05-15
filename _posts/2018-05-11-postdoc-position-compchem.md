@@ -6,7 +6,7 @@ categories: jobs
 
 A **fully-funded** postdoctoral position in **computational material science** is available for **two-years** at the Molecular Quantum Technology Group of Felipe Herrera, based in the Department of Physics at Universidad de Santiago de Chile. The group works on the development of large-scale virtual screening algorithms for the computational discovery of experimentally-accesible metal-organic frameworks (MOF) that can be used as efficient nonlinear optical crystals for quantum communication protocols.
 
-Applicants must send their **current CV and 2 letters of recommendation** to *felipe.herrera.u@usach.cl*. 
+Applicants must submit their **current CV** and have **2 letters of recommendation** sent to *felipe.herrera.u@usach.cl*. 
 
 **Application Deadline: June 15, 2018**.
 
