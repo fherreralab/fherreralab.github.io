@@ -4,15 +4,19 @@ title: People
 permalink: /people/
 ---
 
+### Postdoctoral Researchers
+
+* **Ruben Fritz**, PhD Applied Science 2018, Universidad de Talca. 
+
 ### Research Assistants
 
-* **Ignacio Chi**, MSc Chemistry 2017, Universidad de Chile, Santiago.
+* **Ignacio Chi**, MSc Chemistry 2017, Universidad de Chile.
 
 ### Master Students
 
 * **Vanessa Olaya**, BSc Physics 2017, Universidad del Valle, Cali.
 
-* **Jonathan Sepúlveda**, BSc Engineering Physics 2018, USACH, Santiago.
+* **Jonathan Sepúlveda**, BSc Engineering Physics 2018, USACH.
 
 
 ### Undergraduate Students 
