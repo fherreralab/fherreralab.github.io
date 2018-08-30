@@ -4,6 +4,7 @@ title: People
 permalink: /people/
 ---
 
+
 ### Postdoctoral Researchers
 
 * **Ruben Fritz**, PhD Applied Science 2018, Universidad de Talca. 
