@@ -6,7 +6,7 @@ permalink: /research/organic-qed/
 
 ![Organic cavity QED scheme][cavity-image]
 
-Our group is developing new theoretical and numerical frameworks to study the complex quantum dynamics of organic materials embedded in optical and infrared optical cavities, in order to address outstanding questions and propose new experiments in the emerging field of organic cavity quantum electrodynamics.
+We are developing new theoretical and numerical frameworks to study the complex quantum dynamics of organic materials embedded in optical and infrared optical cavities, in order to address outstanding questions and propose new experiments in the emerging field of organic cavity quantum electrodynamics.
 
 One of our goals is to theoretically construct robust quantum control schemes for the manipulation of optical, electronic and vibrational processes in organic molecular samples under strong and ultrastrong intracavity light-matter coupling. Our current efforts are  focused on **manipulating chemical reactions** and  **nonlinear optical properties** of organic materials, using quantum optics and quantum control techniques.
 
@@ -15,6 +15,8 @@ We are also very actively developing efficient numerical methods to solve the co
 **Representative Publications:**
 
 F. Herrera and F. C. Spano, *Theory of nanoscale organic cavities: The essential role of vibration-photon dressed states* (Review), ACS Photonics 5, 65, 2018
+
+M. Litinskaya and F. Herrera, *Vacuum-enhanced optical nonlinearities with organic molecular photoswitches*, arXiv:1804.01816, 2018.
 
 F. Herrera and F. C. Spano, *Dark vibronic polaritons and the spectroscopy of organic microcavities*, Phys. Rev. Lett 118, 223601, 2017
 
