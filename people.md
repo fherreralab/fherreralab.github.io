@@ -4,6 +4,9 @@ title: People
 permalink: /people/
 ---
 
+### Principal Investigator 
+
+* **Prof. Felipe Herrera**, PhD University of British Columbia 2012. [(Felipe´s Bio)](/about/)
 
 ### Postdoctoral Researchers
 

@@ -39,7 +39,6 @@ minima:
 header_pages:
  - research-areas.md
  - publications.md
- - about.md
  - people.md
  - openings.md
 
