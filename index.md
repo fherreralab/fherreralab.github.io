@@ -18,7 +18,7 @@ To learn more about our work, we invite you to read a description of our current
 </figure>
 
 
-
+[fisica-usach]: http://www.fisica.usach.cl
 [home-image]:{{ "/assets/img/displaced-potential-cavity.pdf" | absolute_url }} 
 [herrera-cv]: {{ "/assets/cv/CV_Felipe.pdf" | absolute_url }}
 [herrera-thesis]: https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0062442
