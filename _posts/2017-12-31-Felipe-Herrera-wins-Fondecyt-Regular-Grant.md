@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Felipe wins Fondecyt Regular Grant from Conicyt"
-categories: misc
+categories: grants
 ---
 
 Felipe was awarded a highly-competitive Fondecyt Regular Grant in Physics (27% AR), for the project entitled "*Cavity Quantum Electrodynamics with Organic Matter*". The **US$ 290,000** grant funds will be used to support graduate students, postdocs, and expand the computational power of our home-made cpu cluster *chemphys*, over a four-year period.

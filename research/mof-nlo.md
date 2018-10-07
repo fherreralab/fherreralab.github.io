@@ -13,8 +13,6 @@ Our group is currently developing *high-throughput virtual-screening* software u
 
 In collaboration with the Nanosynthesis Lab of [Dinesh Pratap Singh][dinesh-scholar] at USACH and the Quantum Communication Lab of [Gustavo Lima][gustavo-scholar] at Universidad de Concepción, our goal is to **build a large-scale computational and synthetic capacity to develop new entangled photon sources and frequency doubling devices** based on high-quality MOF crystals.
 
-This research direction is one of the four focus topic of the [Millenium Institute for Research in Optics][miro-icm-site] MIRO.
-
 **Representative Publications:**
 
 I. Chi-Duran, J. Enriquez, C. Manquian, W. Cañon-Mancisidor, D. Venegas-Yazigi, F. Herrera, D. P. Singh, *pH-controlled assembly of 3D and 2D zinc-based metal-organic frameworks with tetrazole ligands*, ACS Omega 3, 801, 2018

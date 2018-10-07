@@ -40,6 +40,8 @@ header_pages:
  - publications.md
  - people.md
  - openings.md
+ - group-news.md
+ - MIRO.md
 
 # Build settings
 theme: minima

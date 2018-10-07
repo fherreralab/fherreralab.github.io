@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "We welcome Ruben Fritz as the first postdoc in our group."
-categories: jobs
+title: "We welcome Ruben Fritz as the first postdoc in our group"
+categories: welcome
 ---
 
 *We are happy to welcome Ruben Fritz to join our group as our first postdoctoral researcher!*

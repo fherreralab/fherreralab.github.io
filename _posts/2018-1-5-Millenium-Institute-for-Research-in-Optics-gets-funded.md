@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Felipe becomes a co-founder of new Millenium Institute"
-categories: misc
+categories: grants
 ---
 
 The Millenium Scientific Initiative ([ICM][ICM-site]) at the Chilean Ministry of Economy published the results of the 2017 competition to create two new Millenium Institutes in Chile, and we are happy to announce that our proposed Millenium Institute for Research in Optics (MIRO) was recommended to receive funding of **US$ 1.600.000** per year for up to **10 years**, to pursue cutting-edge research in key areas of experimental and theoretical optical science. 
