@@ -4,7 +4,7 @@ title: Millenium Institute
 permalink: /MIRO/
 ---
 
-Our group is part of the [Millenium Institute for Research in Optics][MIRO] (MIRO), a goverment-funded collaboration between researchers at five Chilean universities dedicated to study fundamental and applied science enabled by classical and quantum optics. 
+Our group is part of the [Millenium Institute for Research in Optics][MIRO] (MIRO), a government-funded collaboration between researchers at five Chilean universities dedicated to study fundamental and applied science enabled by classical and quantum optics. 
 
 # Novel Quantum Light Sources
  
@@ -12,10 +12,10 @@ In collaboration with the Nanosynthesis Laboratory led by [Prof. Dinesh Singh][d
 
 Quantum light can be used to implement:
 
- - quantum key distribution for secure communications 
- - fundamental test of the quantum theory
- - perform spectroscopic measurements beyond the standard quantum limit of precision
- - process multi-dimensional quantum information.   
+ - quantum key distribution for secure communications. 
+ - fundamental tests of quantum mechanics.
+ - spectroscopic measurements beyond the standard quantum limit of precision.
+ - protocols for multi-dimensional quantum information processing.   
 
 
 [MIRO]: http://www.iniciativamilenio.cl/en/miro-2/
