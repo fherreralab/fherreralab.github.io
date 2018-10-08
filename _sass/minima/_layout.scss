@@ -77,7 +77,7 @@
       text-align: center;
 
       > svg {
-        fill: $grey-color-dark;
+        fill: darken($light-text-color,10%);
       }
     }
 
