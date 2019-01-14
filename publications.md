@@ -4,13 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
+**2019**
+
+[19] M. Litinskaya and F. Herrera, *Vacuum-enhanced optical nonlinearities with organic molecular photoswitches*, Phys. Rev. B 99, 041107(R), 2018. [[URL]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.041107) [[PDF]]({{ "/assets/papers/2019 Vacuum-enhanced optical nonlinearities with disordered molecular photoswitches.pdf" | absolute_url}})
+
+
 **2018**
 
-[19] I. Chi-Duran, J. Enríquez, C. Manquian, R. A. Fritz, D. Serafini, F. Herrera, D. P. Singh, *Azide-based high-energy metal-organic framework with enhanced thermal stability*, chemrxiv.750190 [[URL]](https://doi.org/10.26434/chemrxiv.7501901.v1)
+[18] I. Chi-Duran, J. Enríquez, C. Manquian, R. A. Fritz, D. Serafini, F. Herrera, D. P. Singh, *Azide-based high-energy metal-organic framework with enhanced thermal stability*, chemrxiv.750190 [[URL]](https://doi.org/10.26434/chemrxiv.7501901.v1)
 
-[18] I. Chi-Duran, J. Enríquez, A. Vega, F. Herrera, D. P. Singh, *Hexa­aqua­zinc(II) dinitrate bis­(5-(pyridinium-3-yl)tetra­zol-1-ide)*, Acta Cryst. E74, 1231-1234, 2018. [[URL]](http://scripts.iucr.org/cgi-bin/paper?S205698901801112X)  [[PDF]]({{ "/assets/papers/2018 molecular crystal.pdf" | absolute_url}})
-
-[17] M. Litinskaya and F. Herrera, *Vacuum-enhanced optical nonlinearities with organic molecular photoswitches*, arXiv:1804.01816, 2018. [[URL]](https://arxiv.org/abs/1804.01816) (in press Phys. Rev. B)
+[17] I. Chi-Duran, J. Enríquez, A. Vega, F. Herrera, D. P. Singh, *Hexa­aqua­zinc(II) dinitrate bis­(5-(pyridinium-3-yl)tetra­zol-1-ide)*, Acta Cryst. E74, 1231-1234, 2018. [[URL]](http://scripts.iucr.org/cgi-bin/paper?S205698901801112X)  [[PDF]]({{ "/assets/papers/2018 molecular crystal.pdf" | absolute_url}})
 
 [16] I. Chi-Duran, J. Enriquez, C. Manquian, W. Cañon-Mancisidor, D. Venegas-Yazigi, F. Herrera, D. P. Singh, *pH-controlled assembly of 3D and 2D zinc-based metal-organic frameworks with tetrazole ligands*, ACS Omega 3, 801, 2018. [[URL]](https://pubs.acs.org/doi/abs/10.1021/acsomega.7b01792) [[PDF]]({{ "/assets/papers/2018 pH-Controlled Assembly of 3D and 2D Zinc-Based Metal-Organic Frameworks with Tetrazole Ligands.pdf" | absolute_url}})
 
