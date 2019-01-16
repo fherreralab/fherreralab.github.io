@@ -6,6 +6,8 @@ permalink: /publications/
 
 **2019**
 
+[20] J. Enríquez, I. Chi-Durán, C. Manquián, F. Herrera, D. P. Singh, *Controlled growth of the non-centrosymmetric Zn(3-ptz)2 and Zn(OH)(3-ptz) metal-organic frameworks*, chemrxiv.7588640.v1 [[URL]](https://doi.org/10.26434/chemrxiv.7588640.v1) 
+
 [19] M. Litinskaya and F. Herrera, *Vacuum-enhanced optical nonlinearities with organic molecular photoswitches*, Phys. Rev. B 99, 041107(R), 2019. [[URL]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.041107) [[PDF]]({{ "/assets/papers/2019 Vacuum-enhanced optical nonlinearities with disordered molecular photoswitches.pdf" | absolute_url}})
 
 
