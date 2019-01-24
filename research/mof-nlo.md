@@ -15,6 +15,8 @@ In collaboration with the Nanosynthesis Lab of [Dinesh Pratap Singh][dinesh-scho
 
 **Representative Publications:**
 
+J. Enríquez, I. Chi-Durán, C. Manquián, F. Herrera, D. P. Singh, Controlled growth of the non-centrosymmetric Zn(3-ptz)2 and Zn(OH)(3-ptz) metal-organic frameworks, chemrxiv.7588640.v1 
+
 I. Chi-Duran, J. Enriquez, C. Manquian, W. Cañon-Mancisidor, D. Venegas-Yazigi, F. Herrera, D. P. Singh, *pH-controlled assembly of 3D and 2D zinc-based metal-organic frameworks with tetrazole ligands*, ACS Omega 3, 801, 2018
 
  

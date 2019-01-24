@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "We welcome Ruben Fritz as the first postdoc in our group"
+title: "We welcome Dr. Ruben Fritz as our first postdoc"
 categories: welcome
 ---
 

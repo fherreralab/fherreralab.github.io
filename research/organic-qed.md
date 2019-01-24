@@ -16,7 +16,7 @@ We are also very actively developing efficient numerical methods to solve the co
 
 F. Herrera and F. C. Spano, *Theory of nanoscale organic cavities: The essential role of vibration-photon dressed states* (Review), ACS Photonics 5, 65, 2018
 
-M. Litinskaya and F. Herrera, *Vacuum-enhanced optical nonlinearities with organic molecular photoswitches*, arXiv:1804.01816, 2018.
+M. Litinskaya and F. Herrera, *Vacuum-enhanced optical nonlinearities with organic molecular photoswitches*, Phys. Rev. B 99, 041107(R), 2019.
 
 F. Herrera and F. C. Spano, *Dark vibronic polaritons and the spectroscopy of organic microcavities*, Phys. Rev. Lett 118, 223601, 2017
 

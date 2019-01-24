@@ -12,24 +12,25 @@ permalink: /people/
 
 * **Ruben Fritz**, PhD Applied Science 2018, Universidad de Talca. 
 
+* **Federico Hernández**, PhD Chemistry 2017, Universidad de Córdova. 
+
 ### Research Assistants
 
 * **Ignacio Chi**, MSc Chemistry 2017, Universidad de Chile.
 
+* **Diego Carvajal**, BSc Applied Mathematics 2018, USACH.
+
 ### Master Students
 
-* **Vanessa Olaya**, BSc Physics 2017, Universidad del Valle, Cali.
+* **Vanessa Olaya**, BSc Physics 2017, Universidad del Valle.
 
 * **Jonathan Sepúlveda**, BSc Engineering Physics 2018, USACH.
 
+* **Felipe Recabal**, BSc Engineering Physics 2019, USACH.
 
 ### Undergraduate Students 
 
 * **Simón Paiva**, Engineering Physics.
-
-* **Diego Carvajal**, Applied Mathematics.
-
-* **Felipe Recabal**, Engineering Physics.
 
 * **Gastón González**, Engineering Physics.
 
