@@ -38,7 +38,7 @@ permalink: /people/
 
 [fisica-usach]: http://www.fisica.usach.cl
 [krems-website]: https://groups.chem.ubc.ca/krems/ 
-[herrera-cv]: {{ "/assets/cv/CV_Felipe.pdf" | absolute_url }}
+[herrera-cv]: {{ "/assets/cv/cvfelipe.pdf" | absolute_url }}
 [herrera-thesis]: https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0062442
 [herrera-scholar]: https://scholar.google.com/citations?user=PJSqnNIAAAAJ&hl=en
 
