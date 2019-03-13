@@ -17,6 +17,6 @@ Felipe is also a husband and a father of a curious kid who enjoys [stepping into
 [krems-website]: https://groups.chem.ubc.ca/krems/ 
 [kais-website]: https://www.chem.purdue.edu/kais/
 [alan-website]: http://matter.toronto.edu/
-[herrera-cv]: {{ "/assets/cv/CV_Felipe.pdf" | absolute_url }}
+[herrera-cv]: {{ "/assets/cv/cvfelipe.pdf" | absolute_url }}
 [herrera-thesis]: https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0062442
 [herrera-scholar]: https://scholar.google.com/citations?user=PJSqnNIAAAAJ&hl=en
