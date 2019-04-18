@@ -41,7 +41,7 @@ header_pages:
  - people.md
  - openings.md
  - group-news.md
- - MIRO.md
+ - resources.md
 
 # Build settings
 theme: minima

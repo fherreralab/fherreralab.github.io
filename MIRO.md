@@ -4,7 +4,7 @@ title: Millenium Institute
 permalink: /MIRO/
 ---
 
-Our group is part of the [Millenium Institute for Research in Optics][MIRO] (MIRO), a government-funded collaboration between researchers at five Chilean universities dedicated to study fundamental and applied science enabled by classical and quantum optics. 
+The [Millenium Institute for Research in Optics][MIRO] (MIRO) is a government-funded collaboration between researchers at five Chilean universities dedicated to study fundamental and applied science enabled by classical and quantum optics. 
 
 # Novel Quantum Light Sources
  
@@ -18,7 +18,7 @@ Quantum light can be used to implement:
  - protocols for multi-dimensional quantum information processing.   
 
 
-[MIRO]: http://www.iniciativamilenio.cl/en/miro-2/
+[MIRO]: http://www.miroptics.cl
 [mof-nlo]: {{"/research/mof-nlo/"| absolute_url}}
 [dinesh-scholar]: https://scholar.google.cl/citations?user=j_0nksgAAAAJ&hl=en
 [gustavo-scholar]: https://scholar.google.com/citations?user=aJHQ4PwAAAAJ

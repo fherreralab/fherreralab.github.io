@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-permalink: /people/
+permalink: /people/ 
 ---
 
 ### Principal Investigator 
@@ -43,7 +43,3 @@ permalink: /people/
 [herrera-scholar]: https://scholar.google.com/citations?user=PJSqnNIAAAAJ&hl=en
 
 
-<figure>
-  <img src="{{absolute_url}}/assets/img/group-mar-2018.jpeg" alt="Group photo March 2018"/>
-  <figcaption>Credit: María José Carreño Matus</figcaption>
-</figure>
