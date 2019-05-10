@@ -22,17 +22,18 @@ permalink: /people/
 
 ### Master Students
 
+* **Gastón González**, BSc Engineering Physics, 2019, USACH.
+
 * **Vanessa Olaya**, BSc Physics 2017, Universidad del Valle.
 
 * **Jonathan Sepúlveda**, BSc Engineering Physics 2018, USACH.
 
 * **Felipe Recabal**, BSc Engineering Physics 2019, USACH.
 
+
 ### Undergraduate Students 
 
 * **Simón Paiva**, Engineering Physics.
-
-* **Gastón González**, Engineering Physics.
 
 * **Iván Jara**, Engineering Physics.
 
