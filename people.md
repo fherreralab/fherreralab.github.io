@@ -14,6 +14,8 @@ permalink: /people/
 
 * **Federico Hernández**, PhD Chemistry 2017, Universidad de Córdova. 
 
+* **Johan Triana**, PhD Physics 2019, Universidad de Antioquia. 
+
 ### Research Assistants
 
 * **Ignacio Chi**, MSc Chemistry 2017, Universidad de Chile.
