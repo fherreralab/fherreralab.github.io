@@ -15,7 +15,10 @@ permalink: /resources/
 
 # Thesis
 
-- D. Carvajal, *Oscilador armónico cuántico amortiguado bajo forzamiento periódico*, Eng. Math. (2018) [[PDF]]({{ "/assets/resources/thesis-frecabal.pdf" | absolute_url}})
+
+- G. González, *Simulación computacional de la eficiencia de recombinación OLED con el método Drift-Diffusion*, Eng. Phys. (2019) [[PDF]]({{ "/assets/resources/thesis-ggonzalez.pdf" | absolute_url}})
+
+- D. Carvajal, *Oscilador armónico cuántico amortiguado bajo forzamiento periódico*, Eng. Math. (2018) [[PDF]]({{ "/assets/resources/thesis-dcarvajal.pdf" | absolute_url}})
 
 - F. Recabal, *Estudio de eficiencia de Celdas Solares Orgánicas*, Eng. Phys. (2018) [[PDF]]({{ "/assets/resources/thesis-frecabal.pdf" | absolute_url}})
 
