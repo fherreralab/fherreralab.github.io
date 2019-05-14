@@ -8,7 +8,7 @@ permalink: /publications/
 
 [21] M. J. Carreño, J. Sepúlveda, S. Tecpan, C. Hernández, F. Herrera, *An Instrument-Free Demonstration of Quantum Key Distribution for High-School Students*, arXiv:1904.10537 (2019) [[URL]](https://arxiv.org/abs/1904.10537)
 
-[20] J. Enríquez, I. Chi-Durán, C. Manquián, F. Herrera, D. P. Singh, *Controlled growth of the non-centrosymmetric Zn(3-ptz)2 and Zn(OH)(3-ptz) metal-organic frameworks*, chemrxiv.7588640.v1 [[URL]](https://pubs.acs.org/doi/10.1021/acsomega.9b00236) [[PDF]]({{ "/assets/papers/2019 Controlled Growth of the Noncentrosymmetric Zn(3-ptz)2 and Zn(OH)(3-ptz) Metal–Organic Frameworks.pdf" | absolute_url}})
+[20] J. Enríquez, I. Chi-Durán, C. Manquián, F. Herrera, D. P. Singh, *Controlled growth of the non-centrosymmetric Zn(3-ptz)2 and Zn(OH)(3-ptz) metal-organic frameworks*, ACS Omega 4, 7411–7419, 2019. [[URL]](https://pubs.acs.org/doi/10.1021/acsomega.9b00236) [[PDF]]({{ "/assets/papers/2019 Controlled Growth of the Noncentrosymmetric Zn(3-ptz)2 and Zn(OH)(3-ptz) Metal–Organic Frameworks.pdf" | absolute_url}})
  
 
 [19] M. Litinskaya and F. Herrera, *Vacuum-enhanced optical nonlinearities with organic molecular photoswitches*, Phys. Rev. B 99, 041107(R), 2019. [[URL]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.041107) [[PDF]]({{ "/assets/papers/2019 Vacuum-enhanced optical nonlinearities with disordered molecular photoswitches.pdf" | absolute_url}})
