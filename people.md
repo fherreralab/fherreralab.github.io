@@ -22,13 +22,15 @@ permalink: /people/
 
 * **Diego Carvajal**, BSc Applied Mathematics 2018, USACH.
 
-### Master Students
+* **Iván Jara**, BSc Engineering Physics, 2019, USACH.
 
-* **Gastón González**, BSc Engineering Physics, 2019, USACH.
+### Master Students
 
 * **Vanessa Olaya**, BSc Physics 2017, Universidad del Valle.
 
 * **Jonathan Sepúlveda**, BSc Engineering Physics 2018, USACH.
+
+* **Gastón González**, BSc Engineering Physics, 2019, USACH.
 
 * **Felipe Recabal**, BSc Engineering Physics 2019, USACH.
 
@@ -37,7 +39,7 @@ permalink: /people/
 
 * **Simón Paiva**, Engineering Physics.
 
-* **Iván Jara**, Engineering Physics.
+
 
 [fisica-usach]: http://www.fisica.usach.cl
 [krems-website]: https://groups.chem.ubc.ca/krems/ 

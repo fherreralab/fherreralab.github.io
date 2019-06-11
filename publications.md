@@ -6,6 +6,8 @@ permalink: /publications/
 
 **2019**
 
+[22] F. Hernández and F. Herrera, *Multi-level quantum Rabi model of anharmonic vibrational polaritons*, arXiv (2019). 
+
 [21] M. J. Carreño, J. Sepúlveda, S. Tecpan, C. Hernández, F. Herrera, *An Instrument-Free Demonstration of Quantum Key Distribution for High-School Students*, arXiv:1904.10537 (2019) [[URL]](https://arxiv.org/abs/1904.10537)
 
 [20] J. Enríquez, I. Chi-Durán, C. Manquián, F. Herrera, D. P. Singh, *Controlled growth of the non-centrosymmetric Zn(3-ptz)2 and Zn(OH)(3-ptz) metal-organic frameworks*, ACS Omega 4, 7411–7419, 2019. [[URL]](https://pubs.acs.org/doi/10.1021/acsomega.9b00236) [[PDF]]({{ "/assets/papers/2019 Controlled Growth of the Noncentrosymmetric Zn(3-ptz)2 and Zn(OH)(3-ptz) Metal–Organic Frameworks.pdf" | absolute_url}})
@@ -14,9 +16,11 @@ permalink: /publications/
 [19] M. Litinskaya and F. Herrera, *Vacuum-enhanced optical nonlinearities with organic molecular photoswitches*, Phys. Rev. B 99, 041107(R), 2019. [[URL]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.041107) [[PDF]]({{ "/assets/papers/2019 Vacuum-enhanced optical nonlinearities with disordered molecular photoswitches.pdf" | absolute_url}})
 
 
+[18] I. Chi-Duran, J. Enríquez, C. Manquian, R. A. Fritz, D. Serafini, F. Herrera, D. P. Singh, *Azide-based high-energy metal-organic framework with enhanced thermal stability*, chemrxiv.750190 [[URL]](https://doi.org/10.26434/chemrxiv.7501901.v1)
+
+
 **2018**
 
-[18] I. Chi-Duran, J. Enríquez, C. Manquian, R. A. Fritz, D. Serafini, F. Herrera, D. P. Singh, *Azide-based high-energy metal-organic framework with enhanced thermal stability*, chemrxiv.750190 [[URL]](https://doi.org/10.26434/chemrxiv.7501901.v1)
 
 [17] I. Chi-Duran, J. Enríquez, A. Vega, F. Herrera, D. P. Singh, *Hexa­aqua­zinc(II) dinitrate bis­(5-(pyridinium-3-yl)tetra­zol-1-ide)*, Acta Cryst. E74, 1231-1234, 2018. [[URL]](http://scripts.iucr.org/cgi-bin/paper?S205698901801112X)  [[PDF]]({{ "/assets/papers/2018 molecular crystal.pdf" | absolute_url}})
 
