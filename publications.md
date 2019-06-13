@@ -6,7 +6,7 @@ permalink: /publications/
 
 **2019**
 
-[22] F. Hernández and F. Herrera, *Multi-level quantum Rabi model of anharmonic vibrational polaritons*, arXiv (2019). 
+[22] F. Hernández and F. Herrera, *Multi-level quantum Rabi model for anharmonic vibrational polaritons*, arXiv:1906.04374 (2019) [[URL]](https://arxiv.org/abs/1906.04374) 
 
 [21] M. J. Carreño, J. Sepúlveda, S. Tecpan, C. Hernández, F. Herrera, *An Instrument-Free Demonstration of Quantum Key Distribution for High-School Students*, arXiv:1904.10537 (2019) [[URL]](https://arxiv.org/abs/1904.10537)
 
