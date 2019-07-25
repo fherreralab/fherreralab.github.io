@@ -6,9 +6,12 @@ permalink: /publications/
 
 **2019**
 
-[23] M. Wersäll, B. Munkhbat, D. G. Baranov, F. Herrera, J. Cao, T. J. Antosiewicz, T. Shegai, *Correlative dark-field and photoluminescence spectroscopy of individual plasmon-molecule hybrid nanostructures in strong coupling regime* [submitted]
+[24] M. Wersäll, B. Munkhbat, D. G. Baranov, F. Herrera, J. Cao, T. J. Antosiewicz, T. Shegai, *Correlative dark-field and photoluminescence spectroscopy of individual plasmon-molecule hybrid nanostructures in strong coupling regime* [submitted]
 
-[22] F. Hernández and F. Herrera, *Multi-level quantum Rabi model for anharmonic vibrational polaritons*, arXiv:1906.04374 (2019) [submitted] [[URL]](https://arxiv.org/abs/1906.04374) 
+[23] F. Hernández and F. Herrera, *Multi-level quantum Rabi model for anharmonic vibrational polaritons*, arXiv:1906.04374 (2019) [submitted] [[URL]](https://arxiv.org/abs/1906.04374) 
+
+[22] I. Chi-Duran, Z. Setifi, F. Setifi, C. Jelsch, B. Morgenstern, A. Vega, F. Herrera, D. Pratap Singh, K. Hegetschweiler and R. Boyaala *Crystal structure and Hirshfeld surface analysis of tris­(2,2′-bi­pyridine)­nickel(II) bis­(1,1,3,3-tetra­cyano-2-eth­oxy­propenide) dihydrate*, Acta Cryst. E75, 867-871, 2019
+
 
 [21] M. J. Carreño, J. Sepúlveda, S. Tecpan, C. Hernández, F. Herrera, *An Instrument-Free Demonstration of Quantum Key Distribution for High-School Students*, arXiv:1904.10537 [accepted in Physics Education] [[URL]](https://arxiv.org/abs/1904.10537)
 
