@@ -4,9 +4,14 @@ title: Openings
 permalink: /openings/
 ---
 
-We are constantly looking to collaborate with motivated young minds from diverse backgrounds interested in joining our group.  
+
+We are always very happy to welcome motivated undergraduate students, graduate students and postdocs with diverse backgrounds in several areas of science and engineering. 
+
+We all do our best to make everyone's experience in the group as **enjoyable and fruitful** as possible. 
+
+
+If you are interested in joining us, please send your informal inquires to Felipe Herrera. 
 
 * **Four-year PhD scholarship** on *Quantum Optics and Chemical Physics*. Available immediately with flexible start date. 
-
-If you are interested in these opportunities, please send your informal inquires to Felipe Herrera. **Women and minorities are encouraged to apply.**
  
+ **Women and minorities are encouraged to apply.**

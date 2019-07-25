@@ -6,8 +6,9 @@ title: Molecular Quantum Technology Group
 We are a theory group in the Department of Physics at Universidad de Santiago de Chile (USACH). We are working on exciting problems at the interface between <span style="color: #002bac">chemical physics, quantum optics, materials science and quantum information</span>, using a variety of theoretical and computational tools. 
 
 
-We are currently focused on three main topics:
+## Current Research
 
+Our research efforts are currently focused on the following topics:
 
 
 [**Cavity Quantum Electrodynamics with Organic Materials**][organic-qed]
@@ -17,12 +18,6 @@ We are currently focused on three main topics:
 
 
 [**Quantum Control with Ultracold Molecules**][cold-molecules]
-
-# Join Us
-
-We are always very happy to welcome motivated undergraduate students, graduate students and postdocs with diverse backgrounds in several areas of science and engineering. If you are interested in joining us, please check out our [current openings](/openings/) to see if our work matches your interests. 
-
-We all do our best to make everyone's experience in the lab as **enjoyable and fruitful** as possible. 
 
 
 [organic-qed]: {{"/research/organic-qed/"| absolute_url}}
