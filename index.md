@@ -11,14 +11,33 @@ We are a theory group in the Department of Physics at Universidad de Santiago de
 Our research efforts are currently focused on the following topics:
 
 
-[**Cavity Quantum Electrodynamics with Organic Materials**][organic-qed]
+* [**Cavity Quantum Electrodynamics with Organic Materials**][organic-qed]
 
 
-[**Metal-Organic Frameworks for Quantum Communication**][mof-nlo]
+* [**Metal-Organic Frameworks for Quantum Communication**][mof-nlo]
 
 
-[**Quantum Control with Ultracold Molecules**][cold-molecules]
+* [**Quantum Control with Ultracold Molecules**][cold-molecules]
 
+
+
+
+
+## MQT 2019 Workshop 
+
+Submit your abstract until **August 29th** at [http://mqt2019.org/submit/](http://mqt2019.org/submit/)
+
+![MQT homepage image][mqt-image]
+
+
+## Funding
+
+
+![funding banner][funding-banner]
+
+
+[mqt-image]: {{ "/assets/img/mqt-home-screenshot.png" | absolute_url }}
+[funding-banner]: {{ "/assets/img/funding-banner.png" | absolute_url }}
 
 [organic-qed]: {{"/research/organic-qed/"| absolute_url}}
 [mof-nlo]: {{"/research/mof-nlo/"| absolute_url}}
