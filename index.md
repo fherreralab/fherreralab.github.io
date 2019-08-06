@@ -36,7 +36,7 @@ Submit your abstract until **August 29th** at [http://mqt2019.org/submit/](http:
 ![funding banner][funding-banner]
 
 
-[mqt-image]: {{ "/assets/img/mqt-home-screenshot.png" | absolute_url }}
+[mqt-image]: {{ "/assets/img/mqt-home-screenshot.jpg" | absolute_url }}
 [funding-banner]: {{ "/assets/img/funding-banner.png" | absolute_url }}
 
 [organic-qed]: {{"/research/organic-qed/"| absolute_url}}
