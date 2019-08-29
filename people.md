@@ -4,9 +4,16 @@ title: People
 permalink: /people/ 
 ---
 
-### Principal Investigator 
 
-* **Prof. Felipe Herrera**, PhD University of British Columbia 2012. [[Brief Bio]](/about/) [[CV]] [herrera-cv]
+<figure>
+  <img src="{{absolute_url}}/assets/img/partial-group-2019.JPG" alt="Felipe Herrera group picture"/>
+  <figcaption><strong>2019 </strong>- Left to right: Felipe R, Simon, Gastón, Jonathan, Ruben, Santosh, Vanessa, Federico, Felipe H. (<i>rainbow halo included</i>) </figcaption>
+</figure>
+
+
+### Principal Investigator
+
+* [Prof. Felipe Herrera](/about/), PhD University of British Columbia 2012. [[CV Felipe]] [herrera-cv]
 
 ### Postdoctoral Researchers
 
