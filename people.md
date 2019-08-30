@@ -11,6 +11,8 @@ permalink: /people/
 </figure>
 
 
+
+
 ### Principal Investigator
 
 * [Prof. Felipe Herrera](/about/), PhD University of British Columbia 2012. [[CV Felipe]] [herrera-cv]

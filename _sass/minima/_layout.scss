@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-  border-top: 2px solid $grey-color-dark;
-  border-bottom: 3px solid $grey-color-light;
+  border-top: 4px solid $grey-color-light;
+  border-bottom: 4px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
   background-color: $dark-color;
 
@@ -15,7 +15,7 @@
   @include relative-font-size(1.625);
   font-weight: 400;
   line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -0.2px;
+  letter-spacing: 0.2px;
   margin-bottom: 0;
   float: left;
   color: $light-text-color;
@@ -273,21 +273,50 @@
  
  div.gallery {
     margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 180px;
+    border: 3px solid #ccc;
+    float: center;
+    width: 80%;
 }
 
 div.gallery:hover {
-    border: 1px solid #777;
+    border: 2px solid #777;
 }
 
 div.gallery img {
-    width: 100%;
+    width: 95%;
     height: auto;
 }
 
 div.desc {
     padding: 15px;
     text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
 }

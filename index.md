@@ -3,31 +3,49 @@ layout: home
 title: Molecular Quantum Technology Group
 ---
 
-We are a theory group in the Department of Physics at Universidad de Santiago de Chile (USACH). We are working on exciting problems at the interface between <span style="color: #002bac">chemical physics, quantum optics, materials science and quantum information</span>, using a variety of theoretical and computational tools. 
+We are a theory group in the Department of Physics at Universidad de Santiago de Chile. We are working on exciting problems at the interface between <span style="color: #002bac">chemical physics, quantum optics, materials science and quantum information</span>, using a variety of theoretical and computational tools. 
 
 
-## Current Research
-
-Our research efforts are currently focused on the following topics:
-
-
-* [**Cavity Quantum Electrodynamics with Organic Materials**][organic-qed]
-
-
-* [**Metal-Organic Frameworks for Quantum Communication**][mof-nlo]
-
-
-* [**Quantum Control with Ultracold Molecules**][cold-molecules]
+  
+<div class="flex-container"> 	  
+	<div class="gallery">
+	 <a target="_blank" href="{{absolute_url}}/research/mof-nlo/">	
+      <img src="{{absolute_url}}/assets/img/mof-shg.jpeg" alt="QKD with MOFs" style="width:100%">
+	 </a>
+      <div class="desc">
+        <h2>Metal-Organic Frameworks for Quantum Communication</h2>
+    </div>
+	</div>
 
 
+	<div class="gallery">
+	 <a target="_blank" href="{{absolute_url}}/research/organic-qed/">	
+      <img src="{{absolute_url}}/assets/img/displaced-potential-cavity.jpeg" alt="Organic cavity QED" style="width:100%">
+	 </a>
+      <div class="desc">
+        <h2>Cavity Quantum Electrodynamics with Organic Materials</h2>
+    </div>
+	</div>
+
+	<div class="gallery">
+	 <a target="_blank" href="{{absolute_url}}/research/cold-molecules/">	
+      <img src="{{absolute_url}}/assets/img/driven-polar-molecules.jpeg" alt="Cold molecule quantum computer" style="width:100%">
+	 </a>
+      <div class="desc">
+        <h2>Quantum Control with Ultracold Molecules</h2>
+	</div>
+	</div>
+</div>
 
 
 
-## MQT 2019 Workshop 
+# SUBMISSIONS OPEN for MQT 2019 
 
 Submit your abstract until **August 29th** at [http://mqt2019.org/submit/](http://mqt2019.org/submit/)
 
-![MQT homepage image][mqt-image]
+<a target="_blank" href="http://mqt2019.org">	
+<img src="{{absolute_url}}/assets/img/mqt-home-screenshot.jpg" alt="MQT 2019 workshop" style="width:100%">
+</a>
 
 
 ## Funding
