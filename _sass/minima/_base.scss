@@ -35,14 +35,13 @@ body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
   background-color: $background-color;
-  width: $content-width;
 }
 
 .flex-container > div {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family; 
   background-color: lighten( $grey-color, 45%);
   width: 100%;
-  margin: 30px;
+  margin: 10px;
   text-align: center;
   line-height: 30px;
 }

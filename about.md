@@ -1,13 +1,8 @@
 ---
 layout: page
-title: 'Felipe Herrera'
+title: 'Brief Bio'
 permalink: /about/
 ---
-
-<figure>
-  <img src="{{absolute_url}}/assets/img/felipe-usach.JPG" alt="Felipe Herrera photo"/>
-  <figcaption><strong>2016 </strong> </figcaption>
-</figure>
 
 
 Felipe obtained a BSc in Chemistry from Universidad de Chile in 2007. Together with his wife, he moved to beautiful Vancouver to carry out doctoral studies in the group of [Roman Krems][krems-website] at the University of British Columbia, where he obtained a [PhD in Chemistry][herrera-thesis] in 2012. After a brief joint postdoctoral position with [Sabre Kais][kais-website] at Purdue University and [Alán Aspuru-Guzik][alan-website] at Harvard University, he continued his postdoctoral work in the Aspuru-Guzik group. In 2014, Felipe was awarded a competitive Conicyt PAI grant to start his current independent research position at the [Department of Physics][fisica-usach] in USACH. For more information, please see [Felipe's CV][herrera-cv].

@@ -15,7 +15,17 @@ permalink: /people/
 
 ### Principal Investigator
 
-* [Prof. Felipe Herrera](/about/), PhD University of British Columbia 2012. [[CV Felipe]] [herrera-cv]
+
+[Prof. Felipe Herrera](/about/)
+
+University of British Columbia, PhD 2012
+
+Harvard University, Postdoctoral Researcher, 2012-2014
+
+Universidad de Santiago, Research Professor, 2014 - present
+
+
+[Full CV] [herrera-cv]
 
 ### Postdoctoral Researchers
 
@@ -50,6 +60,7 @@ permalink: /people/
 
 
 
+[fherrera-pic]:{{ "/assets/img/group-pics/fherrera2.JPG" | absolute_url }} 
 [fisica-usach]: http://www.fisica.usach.cl
 [krems-website]: https://groups.chem.ubc.ca/krems/ 
 [herrera-cv]: {{ "/assets/cv/cvfelipe.pdf" | absolute_url }}

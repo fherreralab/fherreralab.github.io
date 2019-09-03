@@ -3,7 +3,9 @@ layout: home
 title: Molecular Quantum Technology Group
 ---
 
-We are a theory group in the Department of Physics at Universidad de Santiago de Chile. We are working on exciting problems at the interface between <span style="color: #002bac">chemical physics, quantum optics, materials science and quantum information</span>, using a variety of theoretical and computational tools. 
+Welcome to our group page! 
+
+In the Herrera Lab, we develop theoretical concepts and computational tools to address on exciting and challenging problems at the interface between <strong>chemical physics, quantum optics, materials science and quantum information</strong>. Find out more about our current research in the links below. 
 
 
   
@@ -38,14 +40,6 @@ We are a theory group in the Department of Physics at Universidad de Santiago de
 </div>
 
 
-
-# SUBMISSIONS OPEN for MQT 2019 
-
-Submit your abstract until **August 29th** at [http://mqt2019.org/submit/](http://mqt2019.org/submit/)
-
-<a target="_blank" href="http://mqt2019.org">	
-<img src="{{absolute_url}}/assets/img/mqt-home-screenshot.jpg" alt="MQT 2019 workshop" style="width:100%">
-</a>
 
 
 ## Funding
