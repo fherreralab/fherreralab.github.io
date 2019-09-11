@@ -6,8 +6,8 @@ permalink: /people/
 
 
 <figure>
-  <img src="{{absolute_url}}/assets/img/partial-group-2019.jpg" alt="Felipe Herrera group picture"/>
-  <figcaption><strong>2019 </strong>- Left to right: Felipe R, Simon, Gastón, Jonathan, Ruben, Santosh, Vanessa, Federico, Felipe H. (<i>rainbow halo included</i>) </figcaption>
+  <img src="{{absolute_url}}/assets/img/group-sep-2019.jpg" alt="Felipe Herrera group picture"/>
+  <figcaption><strong>Sep. 2019 </strong>- Left to right: Rubén, Mauricio, Diego, Iván, Jonathan, Felipe H., Ignacio, Vanessa, Federico, Johan, Felipe R. </figcaption>
 </figure>
 
 
