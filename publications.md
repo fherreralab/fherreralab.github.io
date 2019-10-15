@@ -8,12 +8,12 @@ permalink: /publications/
 
 [24] M. Wersäll, B. Munkhbat, D. G. Baranov, F. Herrera, J. Cao, T. J. Antosiewicz, T. Shegai, [Correlative dark-field and photoluminescence spectroscopy of individual plasmon-molecule hybrid nanostructures in strong coupling regime](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.9b01079), ACS Photonics [ASAP article], DOI:10.1021/acsphotonics.9b01079, 2019. 
 
-[23] F. Hernández and F. Herrera, [Multi-level quantum Rabi model for anharmonic vibrational polaritons](https://arxiv.org/abs/1906.04374), arXiv:1906.04374 (2019) [Accepted in J. Chem. Phys.]
+[23] F. Hernández and F. Herrera, [Multi-level quantum Rabi model for anharmonic vibrational polaritons](https://aip.scitation.org/doi/10.1063/1.5121426), J. Chem. Phys. 151, 144116, 2019. **Selected as Editor's Pick**. Included as part of the **JCP Emerging Investigators Special Collection**. 
 
 [22] I. Chi-Duran, Z. Setifi, F. Setifi, C. Jelsch, B. Morgenstern, A. Vega, F. Herrera, D. Pratap Singh, K. Hegetschweiler and R. Boyaala *Crystal structure and Hirshfeld surface analysis of tris­(2,2′-bi­pyridine)­nickel(II) bis­(1,1,3,3-tetra­cyano-2-eth­oxy­propenide) dihydrate*, Acta Cryst. E75, 867-871, 2019.
 
 
-[21] M. J. Carreño, J. Sepúlveda, S. Tecpan, C. Hernández, F. Herrera, [An Instrument-Free Demonstration of Quantum Key Distribution for High-School Students](https://doi.org/10.1088/1361-6552/ab377c), Phys. Educ. 54, 065006, 2019. [[PDF]]({{ "/assets/papers/2019 An instrument-free demonstration of quantum key distribution for high-school students.pdf" | absolute_url}})
+[21] M. J. Carreño, J. Sepúlveda, S. Tecpan, C. Hernández, F. Herrera, [An Instrument-Free Demonstration of Quantum Key Distribution for High-School Students](https://doi.org/10.1088/1361-6552/ab377c), Phys. Educ. 54, 065006, 2019. [[PDF]]({{ "/assets/papers/2019 An instrument-free demonstration of quantum key distribution for high-school students.pdf" | absolute_url}}). **Media coverage in [El Mostrador](https://m.elmostrador.cl/cultura/2019/10/01/el-dia-en-que-la-fisica-cuantica-llego-al-instituto-nacional-y-al-liceo-7-de-providencia/)**.
 
 [20] J. Enríquez, I. Chi-Durán, C. Manquián, F. Herrera, D. P. Singh, [Controlled growth of the non-centrosymmetric Zn(3-ptz)2 and Zn(OH)(3-ptz) metal-organic frameworks](https://pubs.acs.org/doi/10.1021/acsomega.9b00236), ACS Omega 4, 7411–7419, 2019. [[PDF]]({{ "/assets/papers/2019 Controlled Growth of the Noncentrosymmetric Zn(3-ptz)2 and Zn(OH)(3-ptz) Metal–Organic Frameworks.pdf" | absolute_url}})
  
