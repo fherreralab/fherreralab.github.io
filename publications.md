@@ -6,7 +6,9 @@ permalink: /publications/
 
 **2019**
 
-[24] M. Wersäll, B. Munkhbat, D. G. Baranov, F. Herrera, J. Cao, T. J. Antosiewicz, T. Shegai, [Correlative dark-field and photoluminescence spectroscopy of individual plasmon-molecule hybrid nanostructures in strong coupling regime](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.9b01079), ACS Photonics [ASAP article], DOI:10.1021/acsphotonics.9b01079, 2019. 
+[25] F. Herrera and J. Owrutsky, [Molecular polaritons for controlling chemistry with quantum optics](https://arxiv.org/abs/1911.05017), arXiv:1911.05017 [submitted], 2019.
+
+[24] M. Wersäll, B. Munkhbat, D. G. Baranov, F. Herrera, J. Cao, T. J. Antosiewicz, T. Shegai, [Correlative dark-field and photoluminescence spectroscopy of individual plasmon-molecule hybrid nanostructures in strong coupling regime](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.9b01079), ACS Photonics 6, 10, 2570-2576, 2019. 
 
 [23] F. Hernández and F. Herrera, [Multi-level quantum Rabi model for anharmonic vibrational polaritons](https://aip.scitation.org/doi/10.1063/1.5121426), J. Chem. Phys. 151, 144116, 2019. **Selected as Editor's Pick**. Included as part of the **JCP Emerging Investigators Special Collection**. 
 
