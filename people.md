@@ -13,19 +13,28 @@ permalink: /people/
 
 
 
-### Principal Investigator
+### [Prof. Felipe Herrera](/about/) 
+
+ - Universidad de Santiago, Research Professor, 2014 - present
+ - Harvard University, Postdoctoral Researcher, 2012-2014
+ - University of British Columbia, PhD 2012
+  
+# Honors & Awards
+ 
+ - Inserción en la Academia Award, Conicyt, 2014
+ - Four Year Fellowship, University of British Columbia, 2009
+ - Gladys Estella Laird Fellowship, University of British Columbia, 2007
+ - Best Student of Chemistry Award, Universidad de Chile, 2007
+ 
+ 
+ [[CV Felipe 2019]] [herrera-cv]
+ 
 
 
-[Prof. Felipe Herrera](/about/)
-
-University of British Columbia, PhD 2012
-
-Harvard University, Postdoctoral Researcher, 2012-2014
-
-Universidad de Santiago, Research Professor, 2014 - present
 
 
-[Full CV] [herrera-cv]
+
+
 
 ### Postdoctoral Researchers
 
