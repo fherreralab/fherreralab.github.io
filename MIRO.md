@@ -18,7 +18,7 @@ Quantum light can be used to implement:
  - protocols for multi-dimensional quantum information processing.   
 
 
-[MIRO]: http://www.miroptics.cl
+[MIRO]: http://www.iniciativamilenio.cl/en/miro-2/
 [mof-nlo]: {{"/research/mof-nlo/"| absolute_url}}
 [dinesh-scholar]: https://scholar.google.cl/citations?user=j_0nksgAAAAJ&hl=en
 [gustavo-scholar]: https://scholar.google.com/citations?user=aJHQ4PwAAAAJ

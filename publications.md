@@ -6,6 +6,8 @@ permalink: /publications/
 
 **2019**
 
+[26] V. Olaya, J. Pérez-Ríos, F. Herrera, [C6 coefficients for interacting Rydberg atoms and alkali-metal dimers](https://arxiv.org/abs/1912.01568), arXiv:1912.01568 [submitted], 2019.
+
 [25] F. Herrera and J. Owrutsky, [Molecular polaritons for controlling chemistry with quantum optics](https://arxiv.org/abs/1911.05017), arXiv:1911.05017 [submitted], 2019.
 
 [24] M. Wersäll, B. Munkhbat, D. G. Baranov, F. Herrera, J. Cao, T. J. Antosiewicz, T. Shegai, [Correlative dark-field and photoluminescence spectroscopy of individual plasmon-molecule hybrid nanostructures in strong coupling regime](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.9b01079), ACS Photonics 6, 10, 2570-2576, 2019. 
