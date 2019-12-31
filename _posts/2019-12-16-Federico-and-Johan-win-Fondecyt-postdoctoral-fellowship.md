@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Johan Triana and Federico Hernández awarded Fondecyt Postdoctoral Fellowship"
+title: "Johan Triana and Federico Hernández awarded prestigious Fondecyt Postdoctoral Fellowship 2020"
 categories: congrats
 ---
 
@@ -9,7 +9,7 @@ categories: congrats
 
 Our postdocs Johan Triana and Federico Hernández won the prestigious Fondecyt Postdoctoral Fellowship with their proposals on molecular polariton physics and chemistry under strong and ultrastrong light-matter coupling. These are semi-independent research projects sponsored by our group. 
 
-The Fondecyt Postdoctoral Fellowship offers a generous stipend for up to 3 years, and provides funds for international travel, and minor research expenses.  
+The Fondecyt Postdoctoral Fellowship offers a generous stipend for up to 3 years (2020-2023), and provides funds for international travel, and minor research expenses.  
 
 **Congratulations Johan and Federico for this accomplishment!** 
 
