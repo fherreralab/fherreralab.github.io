@@ -3,7 +3,7 @@ layout: home
 title: Molecular Quantum Technology Group
 ---
 
-Welcome to our group page! 
+Welcome to our group website! 
 
 In the Herrera Lab, we develop theoretical concepts and computational tools to address exciting and challenging problems at the interface of <strong>chemical physics, quantum optics, materials science and quantum information</strong>. Find out more about our current research in the links below. 
 

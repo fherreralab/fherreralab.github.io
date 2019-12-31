@@ -27,20 +27,13 @@ permalink: /people/
  - Best Student of Chemistry Award, Universidad de Chile, 2007
  
  
- [[CV Felipe 2019]] [herrera-cv]
+ [[CV Felipe 2020]] [herrera-cv]
  
-
-
-
-
-
 
 
 ### Postdoctoral Researchers
 
 * **Ruben Fritz**, PhD Applied Science 2018, Universidad de Talca. 
-
-* **Federico Hernández**, PhD Chemistry 2017, Universidad de Córdova. 
 
 * **Johan Triana**, PhD Physics 2019, Universidad de Antioquia. 
 
@@ -66,6 +59,11 @@ permalink: /people/
 ### Undergraduate Students 
 
 * **Simón Paiva**, Engineering Physics.
+
+
+### Alumni
+
+* **Federico Hernández** (Dec. 2019). Postdoc at Queen Mary University of London.
 
 
 

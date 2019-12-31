@@ -12,6 +12,6 @@ We all do our best to make everyone's experience in the group as **enjoyable and
 
 If you are interested in joining us, please send your informal inquires to Felipe Herrera. 
 
-* **Four-year PhD scholarship** on *Quantum Optics and Chemical Physics*. Available immediately with flexible start date. 
+* Several **Four-year PhD scholarships** on *Quantum Optics and Chemical Physics*. Available immediately with flexible start date. 
  
  **Women and minorities are encouraged to apply.**
