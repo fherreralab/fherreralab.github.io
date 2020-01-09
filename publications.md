@@ -18,7 +18,7 @@ permalink: /publications/
 
 [24] M. Wersäll, B. Munkhbat, D. G. Baranov, F. Herrera, J. Cao, T. J. Antosiewicz, T. Shegai, [Correlative dark-field and photoluminescence spectroscopy of individual plasmon-molecule hybrid nanostructures in strong coupling regime](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.9b01079), ACS Photonics 6, 10, 2570-2576, 2019. 
 
-[23] F. Hernández and F. Herrera, [Multi-level quantum Rabi model for anharmonic vibrational polaritons](https://aip.scitation.org/doi/10.1063/1.5121426), J. Chem. Phys. 151, 144116, 2019. **Selected as Editor's Pick**. Included as part of the **JCP Emerging Investigators Special Collection**. 
+[23] F. Hernández and F. Herrera, [Multi-level quantum Rabi model for anharmonic vibrational polaritons](https://aip.scitation.org/doi/10.1063/1.5121426), J. Chem. Phys. 151, 144116, 2019. [[PDF]]({{ "/assets/papers/2019 Multi-level quantum Rabi model for anharmonic vibrational polaritons.pdf" | absolute_url}})**Selected as Editor's Pick**. Included as part of the **JCP Emerging Investigators Special Collection**. 
 
 [22] I. Chi-Duran, Z. Setifi, F. Setifi, C. Jelsch, B. Morgenstern, A. Vega, F. Herrera, D. Pratap Singh, K. Hegetschweiler and R. Boyaala *Crystal structure and Hirshfeld surface analysis of tris­(2,2′-bi­pyridine)­nickel(II) bis­(1,1,3,3-tetra­cyano-2-eth­oxy­propenide) dihydrate*, Acta Cryst. E75, 867-871, 2019.
 
