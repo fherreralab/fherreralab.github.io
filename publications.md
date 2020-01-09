@@ -4,7 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
+**2020**
+
+
+[27] F. Herrera, [Photochemistry with Quantum Optics from a Non-Adiabatic Quantum Trajectory Perspective](https://reader.elsevier.com/reader/sd/pii/S2451929419305728?token=CAD0D58F6BC7EB10E47BBEEFA4403279255967EEF69B6959E9F3BBE13E9B52EB403C2B744E8477C11555F73E8EAC5A7F), Chem 6, 5-18, 2020. [[PDF]]({{ "/assets/papers/2020 Photochemistry with Quantum Optics from a Non-Adiabatic Quantum Trajectory Perspective.pdf" | absolute_url}})
+
 **2019**
+
 
 [26] V. Olaya, J. Pérez-Ríos, F. Herrera, [C6 coefficients for interacting Rydberg atoms and alkali-metal dimers](https://arxiv.org/abs/1912.01568), arXiv:1912.01568 [submitted], 2019.
 
