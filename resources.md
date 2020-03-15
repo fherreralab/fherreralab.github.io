@@ -13,7 +13,7 @@ permalink: /resources/
 
 
 
-# Thesis
+# Undergraduate Theses
 
 
 - I. Jara, [Simulación computacional de la eficiencia óptica de estructuras OLED]({{ "/assets/resources/thesis-ijara.pdf" | absolute_url}}), Eng. Phys. (2019).

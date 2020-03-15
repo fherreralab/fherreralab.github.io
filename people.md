@@ -27,7 +27,7 @@ permalink: /people/
  - Best Student of Chemistry Award, Universidad de Chile, 2007
  
  
- [[CV Felipe 2020]] [herrera-cv]
+ * [CV Felipe 2020] [herrera-cv]
  
 
 
@@ -37,6 +37,12 @@ permalink: /people/
 
 * **Johan Triana**, PhD Physics 2019, Universidad de Antioquia. 
 
+
+### PhD Students
+
+* **Katy Aruachan**, BSc Physics 2017, Universidad de Córdoba, Colombia.
+
+
 ### Research Assistants
 
 * **Ignacio Chi**, MSc Chemistry 2017, Universidad de Chile.
@@ -44,6 +50,7 @@ permalink: /people/
 * **Diego Carvajal**, BSc Applied Mathematics 2018, USACH.
 
 * **Iván Jara**, BSc Engineering Physics, 2019, USACH.
+
 
 ### Master Students
 
@@ -59,7 +66,6 @@ permalink: /people/
 ### Undergraduate Students 
 
 * **Simón Paiva**, Engineering Physics.
-
 
 ### Alumni
 

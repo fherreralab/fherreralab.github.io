@@ -7,14 +7,18 @@ permalink: /publications/
 **2020**
 
 
-[27] F. Herrera, [Photochemistry with Quantum Optics from a Non-Adiabatic Quantum Trajectory Perspective](https://reader.elsevier.com/reader/sd/pii/S2451929419305728?token=CAD0D58F6BC7EB10E47BBEEFA4403279255967EEF69B6959E9F3BBE13E9B52EB403C2B744E8477C11555F73E8EAC5A7F), Chem 6, 5-18, 2020. [[PDF]]({{ "/assets/papers/2020 Photochemistry with Quantum Optics from a Non-Adiabatic Quantum Trajectory Perspective.pdf" | absolute_url}})
+[27] V. Olaya, J. Pérez-Ríos, F. Herrera, [C6 coefficients for interacting Rydberg atoms and alkali-metal dimers](https://arxiv.org/abs/1912.01568), Phys. Rev. A xx, xxxx  [Accepted, in press], 2020.
+
+
+[26] F. Herrera and J. Owrutsky, [Molecular polaritons for controlling chemistry with quantum optics](https://aip.scitation.org/doi/full/10.1063/1.5136320), J. Chem. Phys. 152, 100902, 2020. [[PDF]]({{ "/assets/papers/2020 Molecular polaritons for controlling chemistry with quantum optics.pdf" | absolute_url}}) **Invited Perspective Article**.
+
+
+[25] F. Herrera, [Photochemistry with Quantum Optics from a Non-Adiabatic Quantum Trajectory Perspective](https://reader.elsevier.com/reader/sd/pii/S2451929419305728?token=CAD0D58F6BC7EB10E47BBEEFA4403279255967EEF69B6959E9F3BBE13E9B52EB403C2B744E8477C11555F73E8EAC5A7F), Chem 6, 5-18, 2020. [[PDF]]({{ "/assets/papers/2020 Photochemistry with Quantum Optics from a Non-Adiabatic Quantum Trajectory Perspective.pdf" | absolute_url}})
 
 **2019**
 
 
-[26] V. Olaya, J. Pérez-Ríos, F. Herrera, [C6 coefficients for interacting Rydberg atoms and alkali-metal dimers](https://arxiv.org/abs/1912.01568), arXiv:1912.01568 [submitted], 2019.
 
-[25] F. Herrera and J. Owrutsky, [Molecular polaritons for controlling chemistry with quantum optics](https://arxiv.org/abs/1911.05017), arXiv:1911.05017 [submitted], 2019.
 
 [24] M. Wersäll, B. Munkhbat, D. G. Baranov, F. Herrera, J. Cao, T. J. Antosiewicz, T. Shegai, [Correlative dark-field and photoluminescence spectroscopy of individual plasmon-molecule hybrid nanostructures in strong coupling regime](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.9b01079), ACS Photonics 6, 10, 2570-2576, 2019.[[PDF]]({{ "/assets/papers/2019 Correlative Dark-Field and Photoluminescence Spectroscopy of Individual Plasmon−Molecule Hybrid Nanostructures in a Strong Coupling Regime.pdf" | absolute_url}})
 

@@ -14,15 +14,13 @@ We are also very actively developing efficient numerical methods to solve the co
 
 **Representative Publications:**
 
-F. Hernández, F. Herrera, *Multi-level quantum Rabi model for anharmonic vibrational polaritons*, J. Chem. Phys. 151, 144116, 2019.
+
+F. Herrera and J. Owrutsky, *Molecular polaritons for controlling chemistry with quantum optics*, J. Chem. Phys. 152, 100902, 2020.
+
 
 F. Herrera and F. C. Spano, *Theory of nanoscale organic cavities: The essential role of vibration-photon dressed states* (Review), ACS Photonics 5, 65, 2018
 
 M. Litinskaya and F. Herrera, *Vacuum-enhanced optical nonlinearities with organic molecular photoswitches*, Phys. Rev. B 99, 041107(R), 2019.
-
-F. Herrera and F. C. Spano, *Dark vibronic polaritons and the spectroscopy of organic microcavities*, Phys. Rev. Lett 118, 223601, 2017
-
-F. Herrera and F. C. Spano, *Cavity-controlled chemistry in molecular ensembles*, Phys. Rev. Lett. 116, 238301, 2016
 
 F. Herrera, B. Peropadre, L. A. Pachon, S. Saikin, A. Aspuru-Guzik, *Quantum nonlinear optics with polar J-aggregates in microcavities*, J. Phys. Chem. Lett. 5, 3708, 2014
 

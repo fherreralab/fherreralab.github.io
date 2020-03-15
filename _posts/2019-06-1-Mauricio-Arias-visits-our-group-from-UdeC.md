@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We welcome PhD student visitor Mauricio Arias from UdeC"
-categories: graduation
+categories: welcome
 ---
 
 ![Mauricio Arias in action][mauricio-arias-visit]
