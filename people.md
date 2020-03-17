@@ -69,7 +69,7 @@ permalink: /people/
 
 ### Alumni
 
-* **Federico Hernández** (Dec. 2019). Postdoc at Queen Mary University of London.
+* **Federico Hernández** (Jan-Dec 2019). Now postdoc at Queen Mary University of London.
 
 
 
