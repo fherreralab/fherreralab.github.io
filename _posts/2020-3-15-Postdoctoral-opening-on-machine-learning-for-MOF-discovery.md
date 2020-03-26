@@ -8,7 +8,7 @@ We are pleased to offer a postdoctoral position on **machine learning for materi
 
 The position is available for up to **three-years** in our Molecular Quantum Technology Group, based in the Department of Physics at Universidad de Santiago de Chile. The group currently works on the development of large-scale virtual screening algorithms for the computational discovery of experimentally-accesible metal-organic frameworks (MOF) that can be used as efficient nonlinear optical crystals for quantum communication protocols. In this project, we collaborate very closely with experimental groups on nanomaterials synthesis, laser spectroscopy, and quantum optics. 
 
-Applicants must submit their **CV** and have **2 letters of recommendation** sent to **felipe.herrera.u@usach.cl**. We Skype interview all aplicants. 
+Applicants must submit their **CV** and have **2 letters of recommendation** sent to **felipe.herrera.u@usach.cl**. We will Skype interview all eligible aplicants. 
 
 **Application Deadline: July 15, 2020**. 
 The start date is flexible, but no later than January 1st, 2021. 
