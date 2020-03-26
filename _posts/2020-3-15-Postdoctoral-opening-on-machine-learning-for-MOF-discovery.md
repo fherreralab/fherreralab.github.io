@@ -25,6 +25,6 @@ The start date is flexible, but no later than January 1st, 2021.
 
 # Requirements: 
 
-Ph.D. degree in Computer Science, Chemistry, Physics, Applied Mathematics, and related fields. **Demonstrated experience with unsupervised machine learning techniques for applications in science and/or engineering** (e.g. generative modeling), preferably with moderate-size data. Excellent programming skills in scientific computing languages (e.g. Python, R, Matlab). Experience or familiarity with chemoinformatics for structure-property prediction *and/or* high-throughput virtual screening techniques is an asset.
+Ph.D. degree in Computer Science, Chemistry, Physics, Applied Mathematics, and related fields. **Demonstrated experience with unsupervised machine learning techniques for applications in science and/or engineering** (e.g. generative modeling), preferably with moderate-size datasets. Excellent programming skills in scientific computing languages (e.g. Python, R, Matlab). Experience or familiarity with chemoinformatics for structure-property prediction *and/or* high-throughput virtual screening techniques is an asset.
 
 We welcome applications of recent graduates from all backgrounds. **Travel Support is provided for accepted international applicants**.
