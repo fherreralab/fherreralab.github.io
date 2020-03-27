@@ -15,7 +15,10 @@ permalink: /people/
 
 ### [Prof. Felipe Herrera](/about/) 
 
- - Universidad de Santiago, Research Professor, 2014 - present
+ - Assistant Professor, USACH, since 2019
+ - Associated Researcher, USACH, 2014 - 2019
+ 
+ 
  - Harvard University, Postdoctoral Researcher, 2012-2014
  - University of British Columbia, PhD 2012
   
