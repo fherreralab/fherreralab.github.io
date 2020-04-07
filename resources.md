@@ -10,6 +10,9 @@ permalink: /resources/
 - [An Instrument-Free Demonstration of Quantum Key Distribution for High-School Students](https://arxiv.org/abs/1904.10537) [[Slides]]({{ "/assets/resources/QKD-demo-talk.pptx" | absolute_url}})
 (Spanish and English)  
 
+# Master Theses
+
+- V. Olaya, [van der Waals interaction between Rydberg atoms and polar molecules]({{ "/assets/resources/thesis-volaya.pdf" | absolute_url}}), MSc Physics (2020).
 
 
 
