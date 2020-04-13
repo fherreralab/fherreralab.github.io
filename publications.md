@@ -56,7 +56,7 @@ permalink: /publications/
 
 [14] F. Herrera and F. C. Spano, [Dark vibronic polaritons and the spectroscopy of organic microcavities](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.223601), Phys. Rev. Lett 118, 223601, 2017. [[PDF]]({{ "/assets/papers/2017 Dark Vibronic Polaritons and the Spectroscopy of Organic Microcavities.pdf" | absolute_url}}). Selected as an Editors´ Suggestion. Also covered in [USACH Press](http://www.udesantiagoaldia.usach.cl/content/investigador-de-la-universidad-realiza-aporte-mundial-en-torno-fisica-cuantica).
 
-[13] F. Herrera and  F. C. Spano, *Absorption and photoluminescence in organic cavity QED*, Phys. Rev. A 95, 053867, 2017. [[URL]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.95.053867) [[PDF]]({{ "/assets/papers/2017 Absorption and photoluminescence in organic cavity QED.pdf" | absolute_url}}). **Selected as APS Editor's Suggestion**. 
+[13] F. Herrera and  F. C. Spano, [Absorption and photoluminescence in organic cavity QED](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.95.053867), Phys. Rev. A 95, 053867, 2017. [[PDF]]({{ "/assets/papers/2017 Absorption and photoluminescence in organic cavity QED.pdf" | absolute_url}}). **Selected as APS Editor's Suggestion**. 
 
 **2016**
 
