@@ -45,8 +45,12 @@ permalink: /people/
 
 * **Katy Aruachan**, BSc Physics 2017, Universidad de Córdoba, Colombia.
 
+* **Athul Sivan**, MSc Physics 2016, ISER-TVM, Thiruvananthapuram, India.
+
 
 ### Research Assistants
+
+* **Vanessa Olaya**, MSc Physics 2020, USACH.
 
 * **Ignacio Chi**, MSc Chemistry 2017, Universidad de Chile.
 
@@ -54,10 +58,11 @@ permalink: /people/
 
 * **Iván Jara**, BSc Engineering Physics, 2019, USACH.
 
+* **Mauricio Arias**, MSc Physics 2015, UdeC, (Visiting PhD student)
+
 
 ### Master Students
 
-* **Vanessa Olaya**, BSc Physics 2017, Universidad del Valle.
 
 * **Jonathan Sepúlveda**, BSc Engineering Physics 2018, USACH.
 
