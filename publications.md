@@ -6,7 +6,7 @@ permalink: /publications/
 
 **2020**
 
-[28] J. F. Triana, F. J. Hernández, F. Herrera, [The shape of the electric dipole function determines the sub-picosecond dynamics of anharmonic vibrational polaritons](https://arxiv.org/abs/2003.07783), J. Chem. Phys. (in press) arXiv:2003.07783, 2020.
+[28] J. F. Triana, F. J. Hernández, F. Herrera, [The shape of the electric dipole function determines the sub-picosecond dynamics of anharmonic vibrational polaritons](https://aip.scitation.org/doi/10.1063/5.0009869), J. Chem. Phys. 152, 234111, 2020. [[PDF]]({{ "/assets/papers/2020 The shape of the electric dipole function determines the sub-picosecond dynamics of anharmonic vibrational polaritons.pdf" | absolute_url}}) **Selected as Editor's Pick**.
 
 [27] V. Olaya, J. Pérez-Ríos, F. Herrera, [C6 coefficients for interacting Rydberg atoms and alkali-metal dimers](https://link.aps.org/doi/10.1103/PhysRevA.101.032705), Phys. Rev. A 101, 032705, 2020. [[PDF]]({{ "/assets/papers/2020 C6 coefficients for interacting Rydberg atoms and alkali-metal dimers.pdf" | absolute_url}})
 
