@@ -12,12 +12,16 @@ permalink: /resources/
 
 # Master Theses
 
+- J. Sepúlveda [Macroscopic cavity QED approach using the Finite Difference Time Domain method]({{ "/assets/resources/msc-thesis-jsepulveda.pdf" | absolute_url}}), MSc Physics (2020).
+
+
 - V. Olaya, [van der Waals interaction between Rydberg atoms and polar molecules]({{ "/assets/resources/thesis-volaya.pdf" | absolute_url}}), MSc Physics (2020).
 
 
 
 # Undergraduate Theses
 
+- S. Paiva, [Regresión de datos en elipsometría de Mueller usando inteligencia artificial]({{ "/assets/resources/thesis-spaiva.pdf" | absolute_url}}), Eng. Phys. (2020).
 
 - I. Jara, [Simulación computacional de la eficiencia óptica de estructuras OLED]({{ "/assets/resources/thesis-ijara.pdf" | absolute_url}}), Eng. Phys. (2019).
 
