@@ -17,4 +17,4 @@ The thesis can be downloaded [here](/resources/).
 
 
 
-[jonathan-sepulveda-2019]:{{ "/assets/img/jonathan-sepulveda.JPG" | absolute_url }} 
+[jonathan-sepulveda-2019]:{{ "/assets/img/jonathan-sepulveda.png" | absolute_url }} 
