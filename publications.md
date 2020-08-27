@@ -6,6 +6,12 @@ permalink: /publications/
 
 **2020**
 
+[31] J. F. Triana, F. Herrera, [Self-dissociation of polar molecules in a confined infrared vacuum](https://chemrxiv.org/articles/preprint/Self-Dissociation_of_Polar_Molecules_in_a_Confined_Infrared_Vacuum/12702419), DOI:10.26434/chemrxiv.12702419.v1, 2020. 
+
+[30] A. Garmulewicz, V. Hernandez, D. Ibarra, I. Jara, M. N. Faundez, D. Vasco, C. García, F. Herrera, L. Gordillo. [Local production for a resilient circular economy: assessing the performance of bioplastics developed with low-cost production methods](https://data.mendeley.com/datasets/nyz4y58jbt), DOI: 10.17632/nyz4y58jbt.1, 2020.
+
+[29] A.B. Grafton, A.D. Dunkelberger, B. S. Simpkins, J. F. Triana, F. Hernandez, F. Herrera, J.C. Owrutsky, [Excited-State vibration-polariton transitions and dynamics in nitroprusside](https://chemrxiv.org/articles/Excited-State_Vibration-Polariton_Transitions_and_Dynamics_in_Nitroprusside/12518555/1?file=23247155), DOI: 10.26434/chemrxiv.12518555.v1, 2020.
+
 [28] J. F. Triana, F. J. Hernández, F. Herrera, [The shape of the electric dipole function determines the sub-picosecond dynamics of anharmonic vibrational polaritons](https://aip.scitation.org/doi/10.1063/5.0009869), J. Chem. Phys. 152, 234111, 2020. [[PDF]]({{ "/assets/papers/2020 The shape of the electric dipole function determines the sub-picosecond dynamics of anharmonic vibrational polaritons.pdf" | absolute_url}}) **Selected as Editor's Pick**.
 
 [27] V. Olaya, J. Pérez-Ríos, F. Herrera, [C6 coefficients for interacting Rydberg atoms and alkali-metal dimers](https://link.aps.org/doi/10.1103/PhysRevA.101.032705), Phys. Rev. A 101, 032705, 2020. [[PDF]]({{ "/assets/papers/2020 C6 coefficients for interacting Rydberg atoms and alkali-metal dimers.pdf" | absolute_url}})
