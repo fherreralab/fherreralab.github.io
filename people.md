@@ -47,6 +47,7 @@ permalink: /people/
 
 * **Athul Sivan**, MSc Physics 2016, ISER-TVM, Thiruvananthapuram, India.
 
+* **Mauricio Arias**, MSc Physics 2015, UdeC, (Visiting PhD student)
 
 ### Research Assistants
 
@@ -58,22 +59,22 @@ permalink: /people/
 
 * **Iván Jara**, BSc Engineering Physics, 2019, USACH.
 
-* **Mauricio Arias**, MSc Physics 2015, UdeC, (Visiting PhD student)
+* **Jonathan Sepúlveda**, MSc Physics 2020, USACH.
 
 
 ### Master Students
 
 
-* **Jonathan Sepúlveda**, BSc Engineering Physics 2018, USACH.
-
 * **Gastón González**, BSc Engineering Physics, 2019, USACH.
 
 * **Felipe Recabal**, BSc Engineering Physics 2019, USACH.
 
+* **Simón Paiva**, Engineering Physics.
 
 ### Undergraduate Students 
 
-* **Simón Paiva**, Engineering Physics.
+* Please inquire about undergraduate research opportunities!
+
 
 ### Alumni
 

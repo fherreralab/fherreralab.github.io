@@ -6,6 +6,10 @@ permalink: /publications/
 
 **2020**
 
+[33] R.A. Fritz, Y. Colón, F. Herrera, [Engineering entangled photon pairs using metal-organic frameworks](https://chemrxiv.org/articles/preprint/Engineering_Entangled_Photon_Pairs_with_Metal-Organic_Frameworks/12997007), DOI:10.26434/chemrxiv.12997007.v1, 2020
+
+[32] J. García-Garfido, J. Enríquez, I. Chi-Durán, I. Jara, L. Vivas, F.J. Hernández, F. Herrera, D.P.  Singh, [Millimeter-sized metal-organic framework single crystals without inversion symmetry: controlled growth and self-assembly mechanism](https://chemrxiv.org/articles/preprint/Millimeter-Sized_Metal-Organic_Framework_Single_Crystals_without_Inversion_Symmetry_Controlled_Growth_and_Self-Assembly_Mechanism/13002950), DOI:10.26434/chemrxiv.13002950.v1, 2020.
+
 [31] J. F. Triana, F. Herrera, [Self-dissociation of polar molecules in a confined infrared vacuum](https://chemrxiv.org/articles/preprint/Self-Dissociation_of_Polar_Molecules_in_a_Confined_Infrared_Vacuum/12702419), DOI:10.26434/chemrxiv.12702419.v1, 2020. 
 
 [30] A. Garmulewicz, V. Hernandez, D. Ibarra, I. Jara, M. N. Faundez, D. Vasco, C. García, F. Herrera, L. Gordillo. [Local production for a resilient circular economy: assessing the performance of bioplastics developed with low-cost production methods](https://data.mendeley.com/datasets/nyz4y58jbt), DOI: 10.17632/nyz4y58jbt.1, 2020.
