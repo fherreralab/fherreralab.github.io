@@ -6,6 +6,8 @@ permalink: /publications/
 
 **2020**
 
+[34] I. Chi-Duran, R. Fritz, V. Olaya, R. Urzua-Leiva, G. I. Cárdenas-Jirón, D.P. Singh, F. Herrera, [Anisotropic Band-Edge Absorption of Millimeter-Size Zn(3-Ptz)2 Single Crystal Metal-Organic Frameworks](https://doi.org/10.26434/chemrxiv.13370414.v1), DOI:10.26434/chemrxiv.13370414.v1, 2020.
+
 [33] R.A. Fritz, Y. Colón, F. Herrera, [Engineering entangled photon pairs using metal-organic frameworks](https://chemrxiv.org/articles/preprint/Engineering_Entangled_Photon_Pairs_with_Metal-Organic_Frameworks/12997007), DOI:10.26434/chemrxiv.12997007.v1, 2020
 
 [32] J. García-Garfido, J. Enríquez, I. Chi-Durán, I. Jara, L. Vivas, F.J. Hernández, F. Herrera, D.P.  Singh, [Millimeter-sized metal-organic framework single crystals without inversion symmetry: controlled growth and self-assembly mechanism](https://chemrxiv.org/articles/preprint/Millimeter-Sized_Metal-Organic_Framework_Single_Crystals_without_Inversion_Symmetry_Controlled_Growth_and_Self-Assembly_Mechanism/13002950), DOI:10.26434/chemrxiv.13002950.v1, 2020.
@@ -14,7 +16,7 @@ permalink: /publications/
 
 [30] A. Garmulewicz, V. Hernandez, D. Ibarra, I. Jara, M. N. Faundez, D. Vasco, C. García, F. Herrera, L. Gordillo. [Local production for a resilient circular economy: assessing the performance of bioplastics developed with low-cost production methods](https://data.mendeley.com/datasets/nyz4y58jbt), DOI: 10.17632/nyz4y58jbt.1, 2020.
 
-[29] A.B. Grafton, A.D. Dunkelberger, B. S. Simpkins, J. F. Triana, F. Hernandez, F. Herrera, J.C. Owrutsky, [Excited-State vibration-polariton transitions and dynamics in nitroprusside](https://chemrxiv.org/articles/Excited-State_Vibration-Polariton_Transitions_and_Dynamics_in_Nitroprusside/12518555/1?file=23247155), DOI: 10.26434/chemrxiv.12518555.v1, 2020.
+[29] A.B. Grafton, A.D. Dunkelberger, B. S. Simpkins, J. F. Triana, F. Hernandez, F. Herrera, J.C. Owrutsky, [Excited-State vibration-polariton transitions and dynamics in nitroprusside](https://chemrxiv.org/articles/Excited-State_Vibration-Polariton_Transitions_and_Dynamics_in_Nitroprusside/12518555/1?file=23247155), Nature Comm. (in press) DOI: 10.26434/chemrxiv.12518555.v1, 2020.
 
 [28] J. F. Triana, F. J. Hernández, F. Herrera, [The shape of the electric dipole function determines the sub-picosecond dynamics of anharmonic vibrational polaritons](https://aip.scitation.org/doi/10.1063/5.0009869), J. Chem. Phys. 152, 234111, 2020. [[PDF]]({{ "/assets/papers/2020 The shape of the electric dipole function determines the sub-picosecond dynamics of anharmonic vibrational polaritons.pdf" | absolute_url}}) **Selected as Editor's Pick**.
 

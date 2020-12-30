@@ -33,8 +33,9 @@ permalink: /people/
  * [CV Felipe 2020] [herrera-cv]
  
 
-
 ### Postdoctoral Researchers
+
+* **Thulasi Bikku**, PhD Computer Science 2018, J.N.T.U.A, Ananthapuramu. 
 
 * **Ruben Fritz**, PhD Applied Science 2018, Universidad de Talca. 
 
@@ -47,29 +48,28 @@ permalink: /people/
 
 * **Athul Sivan**, MSc Physics 2016, ISER-TVM, Thiruvananthapuram, India.
 
-* **Mauricio Arias**, MSc Physics 2015, UdeC, (Visiting PhD student)
+* **Mauricio Arias**, MSc Physics 2015, UdeC. Visiting PhD student.
 
 ### Research Assistants
 
 * **Vanessa Olaya**, MSc Physics 2020, USACH.
 
-* **Ignacio Chi**, MSc Chemistry 2017, Universidad de Chile.
-
 * **Diego Carvajal**, BSc Applied Mathematics 2018, USACH.
 
 * **Iván Jara**, BSc Engineering Physics, 2019, USACH.
 
-* **Jonathan Sepúlveda**, MSc Physics 2020, USACH.
+
 
 
 ### Master Students
 
+* **Simón Paiva**, BSc Engineering Physics 2020, USACH.
 
 * **Gastón González**, BSc Engineering Physics, 2019, USACH.
 
 * **Felipe Recabal**, BSc Engineering Physics 2019, USACH.
 
-* **Simón Paiva**, Engineering Physics.
+
 
 ### Undergraduate Students 
 
@@ -78,7 +78,9 @@ permalink: /people/
 
 ### Alumni
 
-* **Federico Hernández** (Jan-Dec 2019). Now postdoc at Queen Mary University of London.
+* **Ignacio Chi**, Research Assistant 2017-2020. Then PhD student at University of Chicago.
+* **Jonathan Sepúlveda**, MSc Physics 2018-2020. Then PhD student at Universidad del País Vasco.
+* **Federico Hernández**, Postdoc 2019. Then postdoc at Queen Mary University of London.
 
 
 
