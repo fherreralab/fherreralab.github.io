@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-**2020**
+**Preprints**
 
 [34] I. Chi-Duran, R. Fritz, V. Olaya, R. Urzua-Leiva, G. I. Cárdenas-Jirón, D.P. Singh, F. Herrera, [Anisotropic Band-Edge Absorption of Millimeter-Size Zn(3-Ptz)2 Single Crystal Metal-Organic Frameworks](https://doi.org/10.26434/chemrxiv.13370414.v1), DOI:10.26434/chemrxiv.13370414.v1, 2020.
 
@@ -16,7 +16,11 @@ permalink: /publications/
 
 [30] A. Garmulewicz, V. Hernandez, D. Ibarra, I. Jara, M. N. Faundez, D. Vasco, C. García, F. Herrera, L. Gordillo. [Local production for a resilient circular economy: assessing the performance of bioplastics developed with low-cost production methods](https://data.mendeley.com/datasets/nyz4y58jbt), DOI: 10.17632/nyz4y58jbt.1, 2020.
 
-[29] A.B. Grafton, A.D. Dunkelberger, B. S. Simpkins, J. F. Triana, F. Hernandez, F. Herrera, J.C. Owrutsky, [Excited-State vibration-polariton transitions and dynamics in nitroprusside](https://chemrxiv.org/articles/Excited-State_Vibration-Polariton_Transitions_and_Dynamics_in_Nitroprusside/12518555/1?file=23247155), Nature Comm. (in press) DOI: 10.26434/chemrxiv.12518555.v1, 2020.
+**2021**
+
+[29] A.B. Grafton, A.D. Dunkelberger, B. S. Simpkins, J. F. Triana, F. Hernandez, F. Herrera, J.C. Owrutsky, [Excited-State vibration-polariton transitions and dynamics in nitroprusside](https://rdcu.be/cdntf), Nature Communications 12, 214, 2021. [[PDF]]({{ "/assets/papers/2021 Excited-state vibration-polariton transitions and dynamics in nitroprusside.pdf" | absolute_url}}) **Open Access**.
+
+**2020**
 
 [28] J. F. Triana, F. J. Hernández, F. Herrera, [The shape of the electric dipole function determines the sub-picosecond dynamics of anharmonic vibrational polaritons](https://aip.scitation.org/doi/10.1063/5.0009869), J. Chem. Phys. 152, 234111, 2020. [[PDF]]({{ "/assets/papers/2020 The shape of the electric dipole function determines the sub-picosecond dynamics of anharmonic vibrational polaritons.pdf" | absolute_url}}) **Selected as Editor's Pick**.
 
