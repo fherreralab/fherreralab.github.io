@@ -10,14 +10,7 @@ In the Herrera Lab, we develop theoretical concepts and computational tools to a
 
   
 <div class="flex-container"> 	  
-	<div class="gallery">
-	 <a target="_blank" href="{{absolute_url}}/research/mof-nlo/">	
-      <img src="{{absolute_url}}/assets/img/mof-shg.jpeg" alt="QKD with MOFs" style="width:100%">
-	 </a>
-      <div class="desc">
-        <h2>Metal-Organic Frameworks for Quantum Communication</h2>
-    </div>
-	</div>
+
 
 
 	<div class="gallery">
@@ -28,6 +21,18 @@ In the Herrera Lab, we develop theoretical concepts and computational tools to a
         <h2>Cavity Quantum Electrodynamics with Organic Materials</h2>
     </div>
 	</div>
+	
+	<div class="gallery">
+	 <a target="_blank" href="{{absolute_url}}/research/mof-nlo/">	
+      <img src="{{absolute_url}}/assets/img/mof-photon-entanglement.jpeg" alt="QKD with MOFs" style="width:100%">
+	 </a>
+      <div class="desc">
+        <h2>Metal-Organic Frameworks for Quantum Communication</h2>
+    </div>
+	</div>
+
+
+
 
 	<div class="gallery">
 	 <a target="_blank" href="{{absolute_url}}/research/cold-molecules/">	

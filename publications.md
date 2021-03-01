@@ -16,7 +16,7 @@ permalink: /publications/
 
 **2021**
 
-[30] R.A. Fritz, Y. Colón, F. Herrera, [Engineering entangled photon pairs using metal-organic frameworks](https://pubs.rsc.org/en/content/articlelanding/2021/SC/D0SC05572G#!divAbstract), Chemical Science [in press], DOI:10.1039/D0SC05572G, 2021.
+[30] R.A. Fritz, Y. Colón, F. Herrera, [Engineering entangled photon pairs using metal-organic frameworks](http://dx.doi.org/10.1039/D0SC05572G), Chem. Sci. DOI:10.1039/D0SC05572G, 2021.
 
 [29] A.B. Grafton, A.D. Dunkelberger, B. S. Simpkins, J. F. Triana, F. Hernandez, F. Herrera, J.C. Owrutsky, [Excited-State vibration-polariton transitions and dynamics in nitroprusside](https://rdcu.be/cdntf), Nature Communications 12, 214, 2021. [[PDF]]({{ "/assets/papers/2021 Excited-state vibration-polariton transitions and dynamics in nitroprusside.pdf" | absolute_url}}) **Media coverage in [biobiochile.cl](https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2021/01/21/fisicos-chilenos-presentan-teoria-que-marca-avance-clave-hacia-la-computacion-cuantica.shtml)**.
 
