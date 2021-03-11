@@ -13,24 +13,11 @@ permalink: /people/
 
 
 
-### [Prof. Felipe Herrera](/about/) 
+### Principal Investigator
 
- - Assistant Professor, USACH, since 2019
- - Associated Researcher, USACH, 2014 - 2019
- 
- 
- - Harvard University, Postdoctoral Researcher, 2012-2014
- - University of British Columbia, PhD 2012
-  
-# Honors & Awards
- 
- - Inserción en la Academia Award, Conicyt, 2014
- - Four Year Fellowship, University of British Columbia, 2009
- - Gladys Estella Laird Fellowship, University of British Columbia, 2007
- - Best Student of Chemistry Award, Universidad de Chile, 2007
- 
- 
- * [CV Felipe 2020] [herrera-cv]
+* [**Prof. Felipe Herrera**](/people/about-Felipe/),  
+Assistant Professor,  Department of Physics,  
+Universidad de Santiago de Chile, USACH
  
 
 ### Postdoctoral Researchers
