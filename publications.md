@@ -6,7 +6,9 @@ permalink: /publications/
 
 **Preprints**
 
-[34] I. Chi-Duran, R. Fritz, V. Olaya, R. Urzua-Leiva, G. I. Cárdenas-Jirón, D.P. Singh, F. Herrera, [Anisotropic Band-Edge Absorption of Millimeter-Size Zn(3-Ptz)2 Single Crystal Metal-Organic Frameworks](https://doi.org/10.26434/chemrxiv.13370414.v1), DOI:10.26434/chemrxiv.13370414.v1, 2020.
+[35] F. Herrera and M. Litinskaya, [Ensembles of single-molecule picocavities as nonlinear optical metamaterials](https://arxiv.org/abs/2104.00852), arxiv:2104.00852, 2021.
+
+[34] I. Chi-Duran, R. Fritz, V. Olaya, R. Urzua-Leiva, G. I. Cárdenas-Jirón, D.P. Singh, F. Herrera, [Anisotropic band-edge absorption of millimeter-size Zn(3-Ptz)2 single crystal metal-organic frameworks](https://doi.org/10.26434/chemrxiv.13370414.v1), DOI:10.26434/chemrxiv.13370414.v1, 2020.
 
 [33] J. García-Garfido, J. Enríquez, I. Chi-Durán, I. Jara, L. Vivas, F.J. Hernández, F. Herrera, D.P.  Singh, [Millimeter-sized metal-organic framework single crystals without inversion symmetry: controlled growth and self-assembly mechanism](https://chemrxiv.org/articles/preprint/Millimeter-Sized_Metal-Organic_Framework_Single_Crystals_without_Inversion_Symmetry_Controlled_Growth_and_Self-Assembly_Mechanism/13002950), DOI:10.26434/chemrxiv.13002950.v1, 2020.
 
