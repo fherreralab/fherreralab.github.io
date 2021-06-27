@@ -16,7 +16,7 @@ permalink: /people/
 ### Principal Investigator
 
 * [**Prof. Felipe Herrera**](/people/about-Felipe/),  
-Assistant Professor,  Department of Physics,  
+Assistant Professor, Department of Physics,  
 Universidad de Santiago de Chile, USACH
  
 
@@ -41,20 +41,17 @@ Universidad de Santiago de Chile, USACH
 
 * **Vanessa Olaya**, MSc Physics 2020, USACH.
 
+* **Gastón González**, MSc Physics 2021, USACH.
+
+* **Felipe Recabal**, MSc Physics 2021, USACH.
+
 * **Diego Carvajal**, BSc Applied Mathematics 2018, USACH.
-
-* **Iván Jara**, BSc Engineering Physics, 2019, USACH.
-
-
 
 
 ### Master Students
 
 * **Simón Paiva**, BSc Engineering Physics 2020, USACH.
 
-* **Gastón González**, BSc Engineering Physics, 2019, USACH.
-
-* **Felipe Recabal**, BSc Engineering Physics 2019, USACH.
 
 
 
@@ -66,8 +63,9 @@ Universidad de Santiago de Chile, USACH
 ### Alumni
 
 * **Ignacio Chi**, Research Assistant 2017-2020. Then PhD student at University of Chicago.
-* **Jonathan Sepúlveda**, MSc Physics 2018-2020. Then PhD student at Universidad del País Vasco.
+* **Jonathan Sepúlveda**, MSc Physics 2018-2020. Then PhD student at UPV/EHU.
 * **Federico Hernández**, Postdoc 2019. Then postdoc at Queen Mary University of London.
+* **Iván Jara**, BSc Engineering Physics 2018-2020. Then data scientist in health start-up.
 
 
 
