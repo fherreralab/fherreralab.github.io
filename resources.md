@@ -28,12 +28,13 @@ Together with physics education researchers, our group developed a low-cost demo
 (Spanish and English) 
 
 
+# **Group Dissertations**
 
 ![Thesis image][thesis-image]
 
 
 
-# **Master Theses**
+# Masters
 
 - G. González [Langevin Dynamics for Gas Transport in Carbon Nanotubes]({{ "/assets/resources/msc-thesis-ggonzalez.pdf" | absolute_url}}), MSc Physics (2021)
 
@@ -45,7 +46,7 @@ Together with physics education researchers, our group developed a low-cost demo
 
 
 
-# **Undergraduate Theses**
+# Undergraduate
 
 - S. Paiva, [Regresión de datos en elipsometría de Mueller usando inteligencia artificial]({{ "/assets/resources/thesis-spaiva.pdf" | absolute_url}}), Eng. Phys. (2020).
 
