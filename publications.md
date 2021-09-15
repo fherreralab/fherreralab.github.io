@@ -6,6 +6,10 @@ permalink: /publications/
 
 **Preprints**
 
+[37] J. Triana, M. Arias, J. Nishida, E. Muller, R. Wilcken, S. C. Johnson, A. Delgado, M. B. Raschke, F. Herrera, Semi-empirical quantum optics for mid-infrared molecular nanophotonics, [submitted], 2021.
+
+[36] V. Olaya, J. Pérez-Ríos, F. Herrera, [Laser-assisted binding of ultracold polar molecules with Rydberg atoms in the van der Waals regime](https://arxiv.org/abs/2109.06411), arxiv:2109.06411, 2021.
+
 [35] F. Herrera and M. Litinskaya, [Ensembles of single-molecule picocavities as nonlinear optical metamaterials](https://arxiv.org/abs/2104.00852), arxiv:2104.00852, 2021.
 
 [34] I. Chi-Duran, R. Fritz, V. Olaya, R. Urzua-Leiva, G. I. Cárdenas-Jirón, D.P. Singh, F. Herrera, [Anisotropic band-edge absorption of millimeter-size Zn(3-Ptz)2 single crystal metal-organic frameworks](https://doi.org/10.26434/chemrxiv.13370414.v1), DOI:10.26434/chemrxiv.13370414.v1, 2020.
@@ -90,7 +94,9 @@ permalink: /publications/
 
 **2014 and Earlier**
 
-[9] F. Herrera, B. Peropadre, L. A. Pachon, S. Saikin, A. Aspuru-Guzik, [Quantum nonlinear optics with polar J-aggregates in microcavities](http://pubs.acs.org/doi/abs/10.1021/jz501905h), J. Phys. Chem. Lett. 5, 3708, 2014. [[PDF]]({{"/assets/papers/2014 Quantum Nonlinear Optics with Polar J‑Aggregates in Microcavities.pdf" | absolute_url}})
+[9] F. Herrera, B. Peropadre, L. A. Pachon, S. Saikin, A. Aspuru-Guzik, [Quantum nonlinear optics with polar J-aggregates in microcavities](http://pubs.acs.org/doi/abs/10.1021/jz501905h), J. Phys. Chem. Lett. 5, 3708, 2014. [[PDF]]({{"/assets/papers/2014 Quantum nonlinear optics with polar J-aggregates.pdf" | absolute_url}})
+
+
 
 [8] F. Herrera, Y. Cao, S. Kais, K. B. Whaley, [Infrared-dressed entanglement of cold open-shell polar molecules for universal matchgate quantum computing](http://iopscience.iop.org/1367-2630/16/7/075001/), New J. Phys. 16, 075001, 2014. [[PDF]]({{"/assets/papers/2014 Infrared-matchgate.pdf" | absolute_url}})
 
