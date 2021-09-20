@@ -21,7 +21,7 @@ permalink: /publications/
 
 **2021**
 
-[31] J. García-Garfido, J. Enríquez, I. Chi-Durán, I. Jara, L. Vivas, F.J. Hernández, F. Herrera, D.P.  Singh, [Millimeter-scale Zn(3-ptz)2 metal-organic framework single crystals: self-assembly mechanism and growth kinetics](https://pubs.acs.org/doi/abs/10.1021/acsomega.1c01272), ACS Omega ASAP Article, DOI: 10.1021/acsomega.1c01272, 2021. [[PDF]]({{ "/assets/papers/2021 Millimeter-Scale Zn(3-ptz)2 Metal−Organic Framework Single Crystals Self-Assembly Mechanism and Growth Kinetics.pdf
+[31] J. García-Garfido, J. Enríquez, I. Chi-Durán, I. Jara, L. Vivas, F.J. Hernández, F. Herrera, D.P.  Singh, [Millimeter-scale Zn(3-ptz)2 metal-organic framework single crystals: self-assembly mechanism and growth kinetics](https://pubs.acs.org/doi/abs/10.1021/acsomega.1c01272), ACS Omega 6, 27, 17289–17298, 2021. [[PDF]]({{ "/assets/papers/2021 Millimeter-Scale Zn(3-ptz)2 Metal−Organic Framework Single Crystals Self-Assembly Mechanism and Growth Kinetics.pdf
 " | absolute_url}})
 
 [30] R.A. Fritz, Y. Colón, F. Herrera, [Engineering entangled photon pairs using metal-organic frameworks](http://dx.doi.org/10.1039/D0SC05572G), Chem. Sci. 12, 3475-3482, 2021.[[PDF]]({{ "/assets/papers/2021 Engineering entangled photon pairs with metal– organic frameworks.pdf" | absolute_url}})
