@@ -47,6 +47,8 @@ Universidad de Santiago de Chile, USACH
 
 * **Diego Carvajal**, BSc Applied Mathematics 2018, USACH.
 
+* **Melissa Silva**, BSc Computer Engineering 2022, UMayor.
+
 
 ### Master Students
 
