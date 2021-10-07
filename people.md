@@ -57,9 +57,9 @@ Universidad de Santiago de Chile, USACH
 
 ### Undergraduate Students 
 
-* Melissa Silva, BSc Computer Science 2022, Universidad Mayor.
+* **Melissa Silva**, BSc Computer Science 2022, Universidad Mayor.
 
-* Bastián Martínez, BSc Computer Science 2023, USACH.
+* **Bastián Martínez**, BSc Computer Science 2023, USACH.
 
 
 ### Alumni
