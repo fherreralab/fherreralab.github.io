@@ -45,13 +45,10 @@ Universidad de Santiago de Chile, USACH
 
 * **Felipe Recabal**, MSc Physics 2021, USACH.
 
-* **Diego Carvajal**, BSc Applied Mathematics 2018, USACH.
-
 
 ### Master Students
 
 * **Simón Paiva**, BSc Engineering Physics 2020, USACH.
-
 
 
 
@@ -64,10 +61,11 @@ Universidad de Santiago de Chile, USACH
 
 ### Alumni
 
-* **Ignacio Chi**, Research Assistant 2017-2020. Then PhD student at University of Chicago.
-* **Jonathan Sepúlveda**, MSc Physics 2018-2020. Then PhD student at UPV/EHU.
-* **Federico Hernández**, Postdoc 2019. Then postdoc at Queen Mary University of London.
-* **Iván Jara**, BSc Engineering Physics 2018-2020. Then data scientist in health start-up.
+* Ignacio Chi, Research Assistant 2017-2020. Then PhD student at University of Chicago.
+* Jonathan Sepúlveda, MSc Physics 2018-2020. Then PhD student at UPV/EHU.
+* Federico Hernández, Postdoc 2019. Then postdoc at Queen Mary University of London.
+* Iván Jara, BSc Engineering Physics 2018-2020. Then data scientist in health start-up.
+* Diego Carvajal, BSc Math 2018. Then science outreach.
 
 
 
