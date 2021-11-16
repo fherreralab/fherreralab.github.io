@@ -6,6 +6,9 @@ permalink: /publications/
 
 **Preprints**
 
+[38] J. Triana and F. Herrera, [Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at mid-infrared frequencies](https://arxiv.org/abs/2111.06729), arXiv:2111.06729, 2021.
+
+
 [37] J. Triana, M. Arias, J. Nishida, E. Muller, R. Wilcken, S. C. Johnson, A. Delgado, M. B. Raschke, F. Herrera, [Semi-empirical quantum optics for mid-infrared molecular nanophotonics](https://arxiv.org/abs/2110.07371), arxiv:2110.07371, 2021.
 
 [36] V. Olaya, J. Pérez-Ríos, F. Herrera, [Laser-assisted binding of ultracold polar molecules with Rydberg atoms in the van der Waals regime](https://arxiv.org/abs/2109.06411), arxiv:2109.06411, 2021.
