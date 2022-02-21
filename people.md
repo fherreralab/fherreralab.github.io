@@ -31,40 +31,38 @@ Universidad de Santiago de Chile, USACH
 
 ### PhD Students
 
+
 * **Katy Aruachan**, BSc Physics 2017, Universidad de Córdoba, Colombia.
-
-* **Athul Sivan**, MSc Physics 2016, ISER-TVM, Thiruvananthapuram, India.
-
-* **Mauricio Arias**, MSc Physics 2015, UdeC. Visiting PhD student.
-
-### Research Assistants
-
-* **Vanessa Olaya**, MSc Physics 2020, USACH.
-
-* **Gastón González**, MSc Physics 2021, USACH.
 
 * **Felipe Recabal**, MSc Physics 2021, USACH.
 
+* **Athul Sivan**, MSc Physics 2016, ISER-TVM, India.
+
+* **Mauricio Arias**, MSc Physics 2015, UdeC. Visiting PhD student.
 
 ### Master Students
 
 * **Simón Paiva**, BSc Engineering Physics 2020, USACH.
 
+### Research Assistants
+
+* **Gastón González**, MSc Physics 2021, USACH.
+
 
 
 ### Undergraduate Students 
-
-* **Melissa Silva**, BSc Computer Science 2022, Universidad Mayor.
 
 * **Bastián Martínez**, BSc Computer Science 2023, USACH.
 
 
 ### Alumni
 
+* Melissa Silva, BSc Computer Science 2023. Then Evernote intern.
+* Vanessa Olaya, MSc Physics 2020. Then PhD student at University of Sydney.
 * Ignacio Chi, Research Assistant 2017-2020. Then PhD student at University of Chicago.
-* Jonathan Sepúlveda, MSc Physics 2018-2020. Then PhD student at UPV/EHU.
+* Jonathan Sepúlveda, MSc Physics 2020. Then PhD student at UPV/EHU.
 * Federico Hernández, Postdoc 2019. Then postdoc at Queen Mary University of London.
-* Iván Jara, BSc Engineering Physics 2018-2020. Then data scientist in health start-up.
+* Iván Jara, BSc Engineering Physics 2020. Then data scientist in health start-up.
 * Diego Carvajal, BSc Math 2018. Then science outreach.
 
 
