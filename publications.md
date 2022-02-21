@@ -6,7 +6,7 @@ permalink: /publications/
 
 **2022**
 
-[38] J. Triana and F. Herrera, [Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at mid-infrared frequencies](https://iopscience.iop.org/article/10.1088/1367-2630/ac4a17), New J. Phys. 24, 023008, 2022.
+[38] J. Triana and F. Herrera, [Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at mid-infrared frequencies](https://iopscience.iop.org/article/10.1088/1367-2630/ac4a17), New J. Phys. 24, 023008, 2022. [[PDF]]({{ "/assets/papers/2022 Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at mid-infrared frequencies.pdf" | absolute_url}})
 
 
 **2021**
