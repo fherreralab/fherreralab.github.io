@@ -11,7 +11,7 @@ permalink: /people/
 </figure>
 
 
-<
+
 
 ### Principal Investigator
 
