@@ -8,12 +8,13 @@ permalink: /publications/
 
 [38] F. Herrera and M. Litinskaya, [Ensembles of single-molecule picocavities as nonlinear optical metamaterials](https://aip.scitation.org/doi/10.1063/5.0080063), J. Chem. Phys 156, 114702, 2022. [[PDF]]({{ "/assets/papers/2022 Disordered ensembles of strongly coupled single-molecule plasmonic picocavities as nonlinear optical metamaterials.pdf" | absolute_url}})
 
-[37] J. Triana and F. Herrera, [Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at mid-infrared frequencies](https://iopscience.iop.org/article/10.1088/1367-2630/ac4a17), New J. Phys. 24, 023008, 2022. [[PDF]]({{ "/assets/papers/2022 Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at mid-infrared frequencies.pdf" | absolute_url}})
+[37] J. Triana, M. Arias, J. Nishida, E. Muller, R. Wilcken, S. C. Johnson, A. Delgado, M. B. Raschke, F. Herrera, [Semi-empirical quantum optics for mid-infrared molecular nanophotonics](https://aip.scitation.org/doi/10.1063/5.0075894), J. Chem. Phys. 156, 124110, 2022. [[PDF]]({{ "/assets/papers/2022 Semi-empirical quantum optics for mid-infrared molecular nanophotonics.pdf" | absolute_url}})
+
+[36] J. Triana and F. Herrera, [Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at mid-infrared frequencies](https://iopscience.iop.org/article/10.1088/1367-2630/ac4a17), New J. Phys. 24, 023008, 2022. [[PDF]]({{ "/assets/papers/2022 Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at mid-infrared frequencies.pdf" | absolute_url}})
+s
 
 
 **2021**
-
-[36] J. Triana, M. Arias, J. Nishida, E. Muller, R. Wilcken, S. C. Johnson, A. Delgado, M. B. Raschke, F. Herrera, [Semi-empirical quantum optics for mid-infrared molecular nanophotonics](https://arxiv.org/abs/2110.07371), arxiv:2110.07371, 2021.
 
 [35] V. Olaya, J. Pérez-Ríos, F. Herrera, [Laser-assisted binding of ultracold polar molecules with Rydberg atoms in the van der Waals regime](https://arxiv.org/abs/2109.06411), arxiv:2109.06411, 2021.
 
