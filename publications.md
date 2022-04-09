@@ -6,6 +6,8 @@ permalink: /publications/
 
 **2022**
 
+[39] W. Ahn, F. Herrera, B. Simpkins, [Modification of urethane addition reaction via vibrational strong coupling](https://doi.org/10.26434/chemrxiv-2022-wb6vs), ChemRxiv DOI:10.26434/chemrxiv-2022-wb6vs, 2022. 
+
 [38] F. Herrera and M. Litinskaya, [Ensembles of single-molecule picocavities as nonlinear optical metamaterials](https://aip.scitation.org/doi/10.1063/5.0080063), J. Chem. Phys 156, 114702, 2022. [[PDF]]({{ "/assets/papers/2022 Disordered ensembles of strongly coupled single-molecule plasmonic picocavities as nonlinear optical metamaterials.pdf" | absolute_url}})
 
 [37] J. Triana, M. Arias, J. Nishida, E. Muller, R. Wilcken, S. C. Johnson, A. Delgado, M. B. Raschke, F. Herrera, [Semi-empirical quantum optics for mid-infrared molecular nanophotonics](https://aip.scitation.org/doi/10.1063/5.0075894), J. Chem. Phys. 156, 124110, 2022. [[PDF]]({{ "/assets/papers/2022 Semi-empirical quantum optics for mid-infrared molecular nanophotonics.pdf" | absolute_url}})
