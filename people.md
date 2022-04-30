@@ -6,6 +6,13 @@ permalink: /people/
 
 
 <figure>
+  <img src="{{absolute_url}}/assets/img/group-april-2022.jpg" alt="Felipe Herrera group picture"/>
+  <figcaption><strong>April 2022 </strong>- Left to right: Gastón, Athul, Felipe R., Rubén, Felipe H., Katy, Mauricio, Johan, Bastián, Fernanda. </figcaption>
+</figure>
+
+
+
+<figure>
   <img src="{{absolute_url}}/assets/img/group-sep-2019.jpg" alt="Felipe Herrera group picture"/>
   <figcaption><strong>Sep. 2019 </strong>- Left to right: Rubén, Mauricio, Diego, Iván, Jonathan, Felipe H., Ignacio, Vanessa, Federico, Johan, Felipe R. </figcaption>
 </figure>
