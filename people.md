@@ -59,7 +59,9 @@ Universidad de Santiago de Chile, USACH
 
 ### Undergraduate Students 
 
-* **Bastián Martínez**, BSc Computer Science 2023, USACH.
+* **Bastián Martínez**, BSc Computer Science 2024, USACH.
+* **Fernanda Véliz**, BSc Computer Science 2023, USACH.
+* **Felipe Osorio**, BSc Computer Science 2023, USACH.
 
 
 ### Alumni
