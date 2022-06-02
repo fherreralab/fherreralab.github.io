@@ -6,38 +6,37 @@ permalink: /publications/
 
 **2022**
 
-[40] T. Bikku, R. A. Fritz, Y. J. Colón, F. Herrera, [Machine learning identification of organic compounds using visible light](https://arxiv.org/abs/2204.11832), arXiv:2204.11832, 2022. [[GitHub]](https://doi.org/10.5281/zenodo.6419971)
+[40] V. Hernandez, D. Ibarra, J. F. Triana, B. Martínez-Soto, M. Faúndez, D. A. Vasco, L. Gordillo, F. Herrera, C. García-Herrera, A. Garmulewicz, [Agar Biopolymer Films for Biodegradable Packaging A Reference Dataset for Exploring the Limits of Mechanical Performance](https://doi.org/10.3390/ma15113954), Materials 15, 3954, 2022. [[PDF]]({{ "/assets/papers/2022 Agar Biopolymer Films for Biodegradable Packaging A Reference Dataset for Exploring the Limits of Mechanical Performance.pdf" | absolute_url}}) + [[DATA]](https://data.mendeley.com/datasets/nyz4y58jbt)
 
-[39] W. Ahn, F. Herrera, B. Simpkins, [Modification of urethane addition reaction via vibrational strong coupling](https://doi.org/10.26434/chemrxiv-2022-wb6vs), ChemRxiv DOI:10.26434/chemrxiv-2022-wb6vs, 2022. 
+[39] T. Bikku, R. A. Fritz, Y. J. Colón, F. Herrera, [Machine learning identification of organic compounds using visible light](https://arxiv.org/abs/2204.11832), arXiv:2204.11832, 2022. [[GitHub]](https://doi.org/10.5281/zenodo.6419971)
 
-[38] F. Herrera and M. Litinskaya, [Ensembles of single-molecule picocavities as nonlinear optical metamaterials](https://aip.scitation.org/doi/10.1063/5.0080063), J. Chem. Phys 156, 114702, 2022. [[PDF]]({{ "/assets/papers/2022 Disordered ensembles of strongly coupled single-molecule plasmonic picocavities as nonlinear optical metamaterials.pdf" | absolute_url}})
+[38] W. Ahn, F. Herrera, B. Simpkins, [Modification of urethane addition reaction via vibrational strong coupling](https://doi.org/10.26434/chemrxiv-2022-wb6vs), ChemRxiv DOI:10.26434/chemrxiv-2022-wb6vs, 2022. 
 
-[37] J. Triana, M. Arias, J. Nishida, E. Muller, R. Wilcken, S. C. Johnson, A. Delgado, M. B. Raschke, F. Herrera, [Semi-empirical quantum optics for mid-infrared molecular nanophotonics](https://aip.scitation.org/doi/10.1063/5.0075894), J. Chem. Phys. 156, 124110, 2022. [[PDF]]({{ "/assets/papers/2022 Semi-empirical quantum optics for mid-infrared molecular nanophotonics.pdf" | absolute_url}})
+[37] F. Herrera and M. Litinskaya, [Ensembles of single-molecule picocavities as nonlinear optical metamaterials](https://aip.scitation.org/doi/10.1063/5.0080063), J. Chem. Phys 156, 114702, 2022. [[PDF]]({{ "/assets/papers/2022 Disordered ensembles of strongly coupled single-molecule plasmonic picocavities as nonlinear optical metamaterials.pdf" | absolute_url}})
 
-[36] J. Triana and F. Herrera, [Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at mid-infrared frequencies](https://iopscience.iop.org/article/10.1088/1367-2630/ac4a17), New J. Phys. 24, 023008, 2022. [[PDF]]({{ "/assets/papers/2022 Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at mid-infrared frequencies.pdf" | absolute_url}})
+[36] J. Triana, M. Arias, J. Nishida, E. Muller, R. Wilcken, S. C. Johnson, A. Delgado, M. B. Raschke, F. Herrera, [Semi-empirical quantum optics for mid-infrared molecular nanophotonics](https://aip.scitation.org/doi/10.1063/5.0075894), J. Chem. Phys. 156, 124110, 2022. [[PDF]]({{ "/assets/papers/2022 Semi-empirical quantum optics for mid-infrared molecular nanophotonics.pdf" | absolute_url}})
+
+[35] J. Triana and F. Herrera, [Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at mid-infrared frequencies](https://iopscience.iop.org/article/10.1088/1367-2630/ac4a17), New J. Phys. 24, 023008, 2022. [[PDF]]({{ "/assets/papers/2022 Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at mid-infrared frequencies.pdf" | absolute_url}})
 s
 
 
 **2021**
 
-[35] V. Olaya, J. Pérez-Ríos, F. Herrera, [Laser-assisted binding of ultracold polar molecules with Rydberg atoms in the van der Waals regime](https://arxiv.org/abs/2109.06411), arxiv:2109.06411, 2021.
+[34] V. Olaya, J. Pérez-Ríos, F. Herrera, [Laser-assisted binding of ultracold polar molecules with Rydberg atoms in the van der Waals regime](https://arxiv.org/abs/2109.06411), arxiv:2109.06411, 2021.
 
-[34] J. García-Garfido, J. Enríquez, I. Chi-Durán, I. Jara, L. Vivas, F.J. Hernández, F. Herrera, D.P.  Singh, [Millimeter-scale Zn(3-ptz)2 metal-organic framework single crystals: self-assembly mechanism and growth kinetics](https://pubs.acs.org/doi/abs/10.1021/acsomega.1c01272), ACS Omega 6, 27, 17289–17298, 2021. [[PDF]]({{ "/assets/papers/2021 Millimeter-Scale Zn(3-ptz)2 Metal−Organic Framework Single Crystals Self-Assembly Mechanism and Growth Kinetics.pdf
+[33] J. García-Garfido, J. Enríquez, I. Chi-Durán, I. Jara, L. Vivas, F.J. Hernández, F. Herrera, D.P.  Singh, [Millimeter-scale Zn(3-ptz)2 metal-organic framework single crystals: self-assembly mechanism and growth kinetics](https://pubs.acs.org/doi/abs/10.1021/acsomega.1c01272), ACS Omega 6, 27, 17289–17298, 2021. [[PDF]]({{ "/assets/papers/2021 Millimeter-Scale Zn(3-ptz)2 Metal−Organic Framework Single Crystals Self-Assembly Mechanism and Growth Kinetics.pdf
 " | absolute_url}})
 
-[33] R.A. Fritz, Y. Colón, F. Herrera, [Engineering entangled photon pairs using metal-organic frameworks](http://dx.doi.org/10.1039/D0SC05572G), Chem. Sci. 12, 3475-3482, 2021.[[PDF]]({{ "/assets/papers/2021 Engineering entangled photon pairs with metal– organic frameworks.pdf" | absolute_url}})
+[32] R.A. Fritz, Y. Colón, F. Herrera, [Engineering entangled photon pairs using metal-organic frameworks](http://dx.doi.org/10.1039/D0SC05572G), Chem. Sci. 12, 3475-3482, 2021.[[PDF]]({{ "/assets/papers/2021 Engineering entangled photon pairs with metal– organic frameworks.pdf" | absolute_url}})
 
-[32] A.B. Grafton, A.D. Dunkelberger, B. S. Simpkins, J. F. Triana, F. Hernandez, F. Herrera, J.C. Owrutsky, [Excited-State vibration-polariton transitions and dynamics in nitroprusside](https://doi.org/10.1038/s41467-020-20535-z), Nature Communications 12, 214, 2021. [[PDF]]({{ "/assets/papers/2021 Excited-state vibration-polariton transitions and dynamics in nitroprusside.pdf" | absolute_url}}) **Media coverage in [biobiochile.cl](https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2021/01/21/fisicos-chilenos-presentan-teoria-que-marca-avance-clave-hacia-la-computacion-cuantica.shtml)**.
+[31] A.B. Grafton, A.D. Dunkelberger, B. S. Simpkins, J. F. Triana, F. Hernandez, F. Herrera, J.C. Owrutsky, [Excited-State vibration-polariton transitions and dynamics in nitroprusside](https://doi.org/10.1038/s41467-020-20535-z), Nature Communications 12, 214, 2021. [[PDF]]({{ "/assets/papers/2021 Excited-state vibration-polariton transitions and dynamics in nitroprusside.pdf" | absolute_url}}) **Media coverage in [biobiochile.cl](https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2021/01/21/fisicos-chilenos-presentan-teoria-que-marca-avance-clave-hacia-la-computacion-cuantica.shtml)**.
 
 
 
 
 **2020**
 
-[31] I. Chi-Duran, R. Fritz, V. Olaya, R. Urzua-Leiva, G. I. Cárdenas-Jirón, D.P. Singh, F. Herrera, [Anisotropic band-edge absorption of millimeter-size Zn(3-Ptz)2 single crystal metal-organic frameworks](https://doi.org/10.26434/chemrxiv.13370414.v1), DOI:10.26434/chemrxiv.13370414.v1, 2020.
-
-[30] A. Garmulewicz, V. Hernandez, D. Ibarra, I. Jara, M. N. Faundez, D. Vasco, C. García, F. Herrera, L. Gordillo. [Local production for a resilient circular economy: assessing the performance of bioplastics developed with low-cost production methods](https://data.mendeley.com/datasets/nyz4y58jbt), DOI: 10.17632/nyz4y58jbt.1, 2020.
-
+[30] I. Chi-Duran, R. Fritz, V. Olaya, R. Urzua-Leiva, G. I. Cárdenas-Jirón, D.P. Singh, F. Herrera, [Anisotropic band-edge absorption of millimeter-size Zn(3-Ptz)2 single crystal metal-organic frameworks](https://doi.org/10.26434/chemrxiv.13370414.v1), DOI:10.26434/chemrxiv.13370414.v1, 2020.
 
 [29] J. F. Triana, F. Herrera, [Self-dissociation of polar molecules in a confined infrared vacuum](https://chemrxiv.org/articles/preprint/Self-Dissociation_of_Polar_Molecules_in_a_Confined_Infrared_Vacuum/12702419), DOI:10.26434/chemrxiv.12702419.v1, 2020. 
 
@@ -58,11 +57,9 @@ s
 
 [24] M. Wersäll, B. Munkhbat, D. G. Baranov, F. Herrera, J. Cao, T. J. Antosiewicz, T. Shegai, [Correlative dark-field and photoluminescence spectroscopy of individual plasmon-molecule hybrid nanostructures in strong coupling regime](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.9b01079), ACS Photonics 6, 10, 2570-2576, 2019.[[PDF]]({{ "/assets/papers/2019 Correlative Dark-Field and Photoluminescence Spectroscopy of Individual Plasmon−Molecule Hybrid Nanostructures in a Strong Coupling Regime.pdf" | absolute_url}})
 
-
 [23] F. Hernández and F. Herrera, [Multi-level quantum Rabi model for anharmonic vibrational polaritons](https://aip.scitation.org/doi/10.1063/1.5121426), J. Chem. Phys. 151, 144116, 2019. [[PDF]]({{ "/assets/papers/2019 Multi-level quantum Rabi model for anharmonic vibrational polaritons.pdf" | absolute_url}}) **Selected as Editor's Pick**. Received the **2019 JCP Best Paper Award by an Emerging Investigator**.
 
 [22] I. Chi-Duran, Z. Setifi, F. Setifi, C. Jelsch, B. Morgenstern, A. Vega, F. Herrera, D. Pratap Singh, K. Hegetschweiler and R. Boyaala *Crystal structure and Hirshfeld surface analysis of tris­(2,2′-bi­pyridine)­nickel(II) bis­(1,1,3,3-tetra­cyano-2-eth­oxy­propenide) dihydrate*, Acta Cryst. E75, 867-871, 2019.
-
 
 [21] M. J. Carreño, J. Sepúlveda, S. Tecpan, C. Hernández, F. Herrera, [An Instrument-Free Demonstration of Quantum Key Distribution for High-School Students](https://doi.org/10.1088/1361-6552/ab377c), Phys. Educ. 54, 065006, 2019. [[PDF]]({{ "/assets/papers/2019 An instrument-free demonstration of quantum key distribution for high-school students.pdf" | absolute_url}}). **Media coverage in [El Mostrador](https://m.elmostrador.cl/cultura/2019/10/01/el-dia-en-que-la-fisica-cuantica-llego-al-instituto-nacional-y-al-liceo-7-de-providencia/)**.
 
