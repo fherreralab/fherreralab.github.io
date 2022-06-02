@@ -17,7 +17,7 @@ permalink: /publications/
 [36] J. Triana, M. Arias, J. Nishida, E. Muller, R. Wilcken, S. C. Johnson, A. Delgado, M. B. Raschke, F. Herrera, [Semi-empirical quantum optics for mid-infrared molecular nanophotonics](https://aip.scitation.org/doi/10.1063/5.0075894), J. Chem. Phys. 156, 124110, 2022. [[PDF]]({{ "/assets/papers/2022 Semi-empirical quantum optics for mid-infrared molecular nanophotonics.pdf" | absolute_url}})
 
 [35] J. Triana and F. Herrera, [Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at mid-infrared frequencies](https://iopscience.iop.org/article/10.1088/1367-2630/ac4a17), New J. Phys. 24, 023008, 2022. [[PDF]]({{ "/assets/papers/2022 Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at mid-infrared frequencies.pdf" | absolute_url}})
-s
+
 
 
 **2021**
