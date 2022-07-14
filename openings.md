@@ -9,10 +9,10 @@ We are always very happy to welcome motivated undergraduate students, graduate s
 
 We all do our best to make everyone's experience in the group as **enjoyable and fruitful** as possible. 
 
+If you are interested in joining us, please send your informal inquires to felipe.herrera.u@usach.cl. 
 
-If you are interested in joining us, please send your informal inquires to Felipe Herrera. 
-
-* Several **four-year PhD scholarships** on *"quantum optics and chemical physics"*. Positions are available immediately, subject to admision in the chemistry or physics graduate programs.
+* Several **four-year PhD scholarships** on *"quantum optics and chemical physics"*. Positions are available immediately for Chilean citizens, permanent or temporary residents with a RUT, subject to being admitted in the PhD program at USACH Department of Physics. PhD admission requirements and applications procedures are described [here](https://www.postgradosudesantiago.cl/doctorado-en-ciencia-con-mencion-en-fisica/). 
+ 
  
  **Women, minorities and international students are encouraged to apply.**
 

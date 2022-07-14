@@ -25,7 +25,8 @@ permalink: /people/
 * [**Prof. Felipe Herrera**](/people/about-Felipe/),  
 Assistant Professor, Department of Physics,  
 Universidad de Santiago de Chile, USACH
- 
+
+* [[Curriculum Vitae][herrera-cv]]
 
 ### Postdoctoral Researchers
 
