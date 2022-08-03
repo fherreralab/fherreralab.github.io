@@ -23,7 +23,7 @@ permalink: /people/about-Felipe/
  - Gladys Estella Laird Fellowship, University of British Columbia, 2007
  - Best Student of Chemistry Award, Universidad de Chile, 2007
  
-# [Download CV][herrera-cv]
+
  
 
 

@@ -6,7 +6,9 @@ permalink: /publications/
 
 **2022**
 
-[40] I. Chi-Duran, R. Fritz, V. Olaya, R. Urzua-Leiva, G. I. Cárdenas-Jirón, D.P. Singh, F. Herrera, [Anisotropic band-edge absorption of millimeter-size Zn(3-Ptz)2 single crystal metal-organic frameworks](https://pubs.acs.org/doi/10.1021/acsomega.2c01856#), ACS Omega (in press) [DOI:10.1021/acsomega.2c01856](https://doi.org/10.1021/acsomega.2c01856), 2022. [[PDF]]({{ "/assets/papers/2022 Anisotropic Band-Edge Absorption of Millimeter-Sized Zn(3-ptz)2 Single-Crystal Metal−Organic Frameworks.pdf" | absolute_url}})
+[41] J. F. Triana and F. Herrera, [Open quantum dynamics of strongly coupled oscillators with multi-configuration time-dependent Hartree propagation and Markovian quantum jumps](https://arxiv.org/abs/2208.01217), arXiv:2208.01217, 2022. 
+
+[40] I. Chi-Duran, R. Fritz, V. Olaya, R. Urzua-Leiva, G. I. Cárdenas-Jirón, D.P. Singh, F. Herrera, [Anisotropic band-edge absorption of millimeter-size Zn(3-Ptz)2 single crystal metal-organic frameworks](https://pubs.acs.org/doi/10.1021/acsomega.2c01856#), ACS Omega 7, 24432, 2022. [[PDF]]({{ "/assets/papers/2022 Anisotropic Band-Edge Absorption of Millimeter-Sized Zn(3-ptz)2 Single-Crystal Metal−Organic Frameworks.pdf" | absolute_url}})
 
 
 [39] V. Hernandez, D. Ibarra, J. F. Triana, B. Martínez-Soto, M. Faúndez, D. A. Vasco, L. Gordillo, F. Herrera, C. García-Herrera, A. Garmulewicz, [Agar Biopolymer Films for Biodegradable Packaging A Reference Dataset for Exploring the Limits of Mechanical Performance](https://doi.org/10.3390/ma15113954), Materials 15, 3954, 2022. [[PDF]]({{ "/assets/papers/2022 Agar Biopolymer Films for Biodegradable Packaging A Reference Dataset for Exploring the Limits of Mechanical Performance.pdf" | absolute_url}}) + [[DATA]](https://data.mendeley.com/datasets/nyz4y58jbt). **Featured in [AzoM.com](https://www.azom.com/news.aspx?newsID=59250)**.
