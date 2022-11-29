@@ -17,7 +17,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.6)
-    ffi (1.9.23)
+    ffi (1.15.5)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
@@ -57,6 +57,7 @@ GEM
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
     rouge (3.1.1)
+    ruby_dep (1.5.0)
     safe_yaml (1.0.4)
     sass (3.5.6)
       sass-listen (~> 4.0.0)
@@ -68,7 +69,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 2.3.26)
+  bundler (~> 1.15)
   minima!
 
 BUNDLED WITH
